@@ -27,14 +27,14 @@
         </respStmt>
         <respStmt>
           <resp>Encoded by</resp>
-          <persName sameAs="people.xml#">
+          <persName sameAs="people.xml#CLIPS">
             <forename>Candice</forename>
             <surname>Lipski</surname>
           </persName>
         </respStmt>
         <respStmt>
           <resp>Encoded by</resp>
-          <persName sameAs="people.xml#">
+          <persName sameAs="people.xml#RDESJ">
             <forename>Rebecca</forename>
             <surname>Desjarlais</surname>
           </persName>
