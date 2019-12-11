@@ -1,0 +1,2218 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="schemas/lglc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schemas/lglc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Lesbian and Gay Liberation in Canada</title>
+                <title level="a">Demonstrations</title>
+                <editor>
+                    <persName sameAs="people.xml#MSCH" n="0">
+                        <forename>Michelle</forename>
+                        <surname>Schwartz</surname>
+                    </persName>
+                </editor>
+                <editor>
+                    <persName sameAs="people.xml#CCRO" n="1">
+                        <forename>Constance</forename>
+                        <surname>Crompton</surname>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <persName sameAs="people.xml#TWHI" n="2">
+                        <forename>Travis</forename>
+                        <surname>White</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>LGLC Project</publisher>
+                <availability>
+                    <p>Electronic edition prepared by the LGLC project. Available under a Creative
+                        Commons Attribution 4.0 International License.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Crompton, Constance, and Michelle Schwartz, eds. “Demonstrations.” LGLC
+                    Project. N.p. Born Digital. </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listEvent>
+                <event xml:id="ECHOP">
+                    <p>
+                        <name>ECHO Pamphlet</name>
+                        <date when="1965"/>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#GPC">Gay Publishing Company</orgName>
+                        <orgName corresp="organizations.xml#ECHO">East Coast Homophile Organizations
+                            (ECHO)</orgName>
+                        <seg corresp="lglcl.xml#n65.5"/>
+                    </p>
+                </event>
+
+                <event xml:id="CISP">
+                    <p>
+                        <name>Canadian Intelligence Service counter protest</name>
+                        <date when="1968-06">June</date>
+                        <placeName corresp="places.xml#CAN">Canada</placeName>
+                        <orgName corresp="organizations.xml#CIS">Canadian Intelligence
+                            Service</orgName>
+                        <orgName corresp="organizations.xml#PSM">Pilgrims of St. Michael</orgName>
+                        <orgName corresp="organizations.xml#EBS">Edmund Burke Society </orgName>
+                        <persName sameAs="people.xml#PTRU">Pierre Trudeau</persName>
+                        <seg corresp="lglc.xml#n68.11"/>
+                    </p>
+                </event>
+
+                <event xml:id="SCT68">
+                    <p>
+                        <name>St. Charles Tavern Halloween march</name>
+                        <date when="1968-10-31">October 31</date>
+                        <placeName corresp="places.xml#SCT"> St. Charles Tavern</placeName>
+                        <seg corresp="lglc.xml#n68.22"/>
+                    </p>
+                </event>
+
+                <event xml:id="SWR">
+                    <p>
+                        <name>Stonewall Riots</name>
+                        <date from="1969-06-28" to="1969-06-29">June 28-29</date>
+                        <placeName corresp="places.xml#SWI">Stonewall Inn</placeName>
+                        <seg corresp="lglc.xml#n69.13"/>
+                    </p>
+                </event>
+
+                <event xml:id="SCT70">
+                    <p>
+                        <name>St. Charles Tavern Halloween march 1970</name>
+                        <date when="1970-10-31">October 31</date>
+                        <placeName corresp="places.xml#SCT">St. Charles Tavern</placeName>
+                        <seg corresp="lglc.xml#n70.32"/>
+                    </p>
+                </event>
+
+                <event xml:id="PLFD">
+                    <p>
+                        <name>Parc Lafontaine Demonstration</name>
+                        <date when="1971-07-01">July 1</date>
+                        <placeName corresp="places.xml#PLF">Parc Lafontaine</placeName>
+                        <orgName corresp="organizations.xml#FLH">FLH</orgName>
+                        <orgName corresp="organizations.xml#PQ">Parti Québécois</orgName>
+                        <persName sameAs="people.xml#DGOT">Denis Gôté</persName>
+                        <persName sameAs="people.xml#RLEV">René Lévesque</persName>
+                        <seg corresp="lglc.xml#n71.60"/>
+                    </p>
+                </event>
+
+                <event xml:id="TGP">
+                    <p>
+                        <name>Toronto's first Gay Picnic</name>
+                        <date when="1971-08-01">August 1</date>
+                        <placeName corresp="places.xml#HP">Hanlan's Point, Toronto
+                            Islands</placeName>
+                        <orgName corresp="organizations.xml#CHATT">CHAT</orgName>
+                        <orgName corresp="organizations.xml#TGA">TGA</orgName>
+                        <seg corresp="lglc.xml#n71.64"/>
+                    </p>
+                </event>
+
+                <event xml:id="OHFR">
+                    <p>
+                        <name>OHF Rally 1971</name>
+                        <date when="1971-08-28">August 28,1971,</date>
+                        <placeName corresp="places.xml#PH">Parliament Hill</placeName><placeName
+                            corresp="places.xml#TOR">Toronto</placeName><orgName
+                            corresp="organizations.xml#TGA">Toronto Gay Action</orgName>
+                        <orgName corresp="organizations.xml#CHATT">CHAT</orgName><orgName
+                            corresp="organizations.xml#GATET">GATE</orgName><orgName
+                            corresp="organizations.xml#ST">Spearhead</orgName>
+                        <orgName corresp="organizations.xml#UTHA">UTHA</orgName>
+                        <orgName corresp="organizations.xml#HALO">UWOHA</orgName>
+                        <orgName corresp="organizations.xml#GLM">Waterloo GLM</orgName>
+                        <persName sameAs="people.xml#CDIN">Cheri DiNovo</persName>
+                        <persName sameAs="people.xml#BWAI">Brian Waite</persName>, <persName
+                            sameAs="people.xml#JWIL">John Wilson</persName><persName
+                            sameAs="people.xml#JWIL">John Williams</persName><persName
+                            sameAs="people.xml#CHIL">Charles Hill</persName><persName
+                            sameAs="people.xml#GHIS">George Hislop</persName><persName
+                            sameAs="people.xml#PMUR">Pat Murphy</persName><persName
+                            sameAs="people.xml#PMAS">Pierre Masson</persName><persName
+                            sameAs="people.xml#RGRE">Roedy Green</persName><orgName
+                            corresp="organizations.xml#FLH">FLH</orgName>
+                        <seg corresp="lglc.xml#n71.55"/><seg corresp="1971.xml#n71.68"/><seg
+                            corresp="lglc.xml#n71.62"/><seg corresp="1971.xml#n71.66"/><seg
+                            corresp="lglc.xml#n71.67"/>
+                    </p>
+                </event>
+                <event xml:id="FLHNEW">
+                    <p>
+                        <name>FLH in New York</name>
+                        <date from="1971-09" to="1971-11">Autumn</date>
+                        <placeName corresp="places.xml#NEW">New York, N.Y</placeName>
+                        <orgName corresp="organizations.xml#FLH">FLH</orgName>
+                        <orgName corresp="organizations.xml#CGAA">GAA</orgName>
+                        <seg corresp="lglc.xml#n71.79"/>
+                    </p>
+                </event>
+                <event xml:id="OEC71">
+                    <p>
+                        <name>Ontario Election Campaign 1971</name>
+                        <date when="1971-10-21">October 21</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#OCSE">Ontario Campaign for Sexual
+                            Equality</orgName>
+                        <persName sameAs="people.xml#PMAL">Peter Maloney</persName>
+                        <persName sameAs="people.xml#ALAW">Allan Lawrence</persName>
+                        <seg corresp="lglc.xml#n71.87"/>
+                    </p>
+                </event>
+
+                <event xml:id="STC71">
+                    <p>
+                        <name>St. Charles Tavern Halloween March 1971</name>
+                        <date when="1971-10-31">October 31</date>
+                        <placeName corresp="places.xml#SCT">St, Charles Tavern, 488 Yonge
+                            Street</placeName>
+                        <orgName corresp="organizations.xml#UTHA">UTHA</orgName>
+                        <seg corresp="lglc.xml#n71.89"/>
+                    </p>
+                </event>
+
+                <event xml:id="AVWD">
+                    <p>
+                        <name>Amchitka-Vietnam War demonstration</name>
+                        <date when="1971-11-06">November 6</date>
+                        <placeName corresp="places.xml#NPS">Nathan Phillips Square</placeName>
+                        <orgName corresp="organizations.xml#TGA">TGA</orgName>
+                        <persName sameAs="people.xml#PMAC">Paul MacDonald</persName>
+                        <seg corresp="lglc.xml#n71.94"/>
+                    </p>
+                </event>
+
+                <event xml:id="NTH">
+                    <p>
+                        <name>Nothing to Hide Demonstration</name>
+                        <date from="1971-12-09" to="1971-12-10">December 9-10</date>
+                        <placeName corresp="places.xml#CBCO">CBC'S offices</placeName>
+                        <orgName corresp="organizations.xml#CBC">CBC</orgName>
+                        <orgName corresp="organizations.xml#UTHA">UTHA</orgName>
+                        <orgName corresp="organizations.xml#TGA">TGA</orgName>
+                        <persName sameAs="people.xml#CHIL">Charles Hill</persName>
+                        <persName sameAs="people.xml#LHAT">Lawrence Hatterer</persName>
+                        <seg corresp="lglc.xml#n71.104"/>
+                        <seg corresp="lglc.xml#n71.100"/>
+                    </p>
+                </event>
+
+                <event xml:id="PTD">
+                    <p>
+                        <name>Parkside Tavern Demonstration</name>
+                        <date when="1972-01-20">January 20,</date>
+                        <date when="1972-01-22">22</date>
+                        <placeName corresp="places.xml#PT">Parkside Tavern</placeName>
+                        <orgName corresp="organizations.xml#TGA">TGA</orgName>
+                        <orgName corresp="organizations.xml#CHATT">CHAT</orgName>
+                        <persName sameAs="people.xml#NBOL">Norman Bolter</persName>
+                        <persName sameAs="people.xml#GHIS">George Hislop</persName>
+                        <persName sameAs="people.xml#JACK">Jack Ackroyd</persName>
+                        <seg corresp="lglc.xml#n72.17"/>
+                    </p>
+                </event>
+
+                <event xml:id="CGAA72">
+                    <p>
+                        <name>CGAA demonstration 1972</name>
+                        <date when="1972-02">February</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <orgName corresp="organizations.xml#CGAA">CGAA</orgName>
+                        <seg corresp="lglc.xml#n72.24"/>
+                        <seg corresp="lglc.xml#n72.26"/>
+                    </p>
+                </event>
+
+                <event xml:id="PMALCO">
+                    <p>
+                        <name>Peter Maloney Coming Out</name>
+                        <date when="1972-02-12">February 12</date>
+                        <placeName corresp="places.xml#OTT">Ottawa</placeName>
+                        <orgName corresp="organizations.xml#LIB">Liberal</orgName>
+                        <persName sameAs="people.xml#PMAL">Peter Maloney</persName>
+                        <persName sameAs="people.xml#ALAW">Allan Lawrence</persName>
+                        <persName sameAs="people.xml#OLAN">Otto Lang</persName>
+                        <seg corresp="lglc.xml#n72.28"/>
+                    </p>
+                </event>
+
+                <event xml:id="FPGM">
+                    <p>
+                        <name>First Publicized Gay Marriage</name>
+                        <date when="1972-02-26">February 26</date>
+                        <placeName corresp="places.xml#MON">Montreal</placeName>
+                        <orgName corresp="organizations.xml#MCC">Metropolitan Community
+                            Church</orgName>
+                        <persName sameAs="people.xml#MGIR">Michel Girouard</persName>
+                        <persName sameAs="people.xml#RTRE">Réjean Tremblay</persName>
+                        <persName sameAs="people.xml#BGRO">Boniface Grosveld</persName>
+                        <persName sameAs="people.xml#TPER">Troy Perry</persName>
+                        <seg corresp="lglc.xml#n72.31"/>
+                    </p>
+                </event>
+                <event xml:id="GNOTO">
+                    <p>
+                        <name>Guerilla Newspaper Office Take Over</name>
+                        <date when="1972-03-11">March 11</date>
+                        <placeName corresp="places.xml#GNO">offices</placeName>
+                        <seg corresp="lglc.xml#n72.37"/>
+                    </p>
+                </event>
+
+                <event xml:id="VMCD">
+                    <p>
+                        <name>Vietnam Mobilization Committee Demonstration</name>
+                        <date when="1972-04-15">April 15</date>
+                        <placeName corresp="places.xml#OTT">Ottawa</placeName>
+                        <orgName corresp="organizations.xml#TGA">TGA</orgName>
+                        <orgName corresp="organizations.xml#GAW">Gays against the War</orgName>
+                        <persName sameAs="people.xml#BWAI">Brian Waite</persName>
+                        <persName sameAs="people.xml#RNIX">Richard Nixon</persName>
+                        <seg corresp="lglc.xml#n72.44"/>
+                    </p>
+
+                </event>
+
+                <event xml:id="EBSTG">
+                    <p>
+                        <name>Edmund Burke Society TEAR GAS</name> date <placeName
+                            corresp="places.xml#SLCTH">St. Lawrence Centre Town
+                            Hall</placeName><placeName corresp="places.xml#CHATC">CHAT'S Community
+                            Centre</placeName>
+                        <orgName corresp="organizations.xml#CHATT">CHAT</orgName><orgName
+                            corresp="organizations.xml#EBS">Western Guard (formerly the Edmund Burke
+                            Society)</orgName>
+                        <seg corresp="lglc.xml#n72.50"/>
+                    </p>
+                </event>
+
+                <event xml:id="CHVP">
+                    <p>
+                        <name>Castle Hotel Picket</name>
+                        <date when="1972-05-20">May 20,</date>
+                        <date when="1972-05-27">27</date>
+                        <placeName corresp="places.xml#CHV">Castle Hotel</placeName>
+                        <orgName corresp="organizations.xml#GLF">GLF</orgName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <orgName corresp="organizations.xml#CGAA">CGAA</orgName>
+                        <persName sameAs="people.xml#DRUL">Dick Rulens</persName>
+                        <seg corresp="lglc.xml#n72.54"/>
+                    </p>
+                </event>
+                <event xml:id="OLD">
+                    <p>
+                        <name>Ontario Legislature Demonstration</name>
+                        <date when="1972-06-29">June 29</date>
+                        <placeName corresp="places.xml#OL">Ontario Legislature</placeName>
+                        <orgName corresp="organizations.xml#CHATT">CHAT</orgName>
+                        <orgName corresp="organizations.xml#TGA">TGA</orgName>
+                        <seg corresp="lglc.xml#n72.63"/>
+                    </p>
+                </event>
+
+                <event xml:id="VGPW72">
+                    <p>
+                        <name>Vancouver Gay Pride Week 1972</name>
+                        <date from="1972-06-30" to="1972-07-02">June 30-July 2</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <orgName corresp="organizations.xml#MCCV">MCC</orgName>
+                        <persName sameAs="people.xml#BSIR">Bob Sirico</persName>
+                        <seg corresp="lglc.xml#n72.64"/>
+                    </p>
+                </event>
+                <event xml:id="TGPW72">
+                    <p>
+                        <name>Toronto Gay Pride Week 1972</name>
+                        <date from="1972-08-19" to="1972-08-27">August 19-27</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#CHATT">CHAT</orgName>
+                        <orgName corresp="organizations.xml#TGA">TGA</orgName>
+                        <persName sameAs="people.xml#GHIS">George Hislop</persName>
+                        <persName sameAs="people.xml#SLEW">Stephen Lewis</persName>
+                        <persName sameAs="people.xml#WKIL">William Kilbourn</persName>
+                        <persName sameAs="people.xml#WDEN">William Dennison</persName>
+                        <seg corresp="lglc.xml#n72.70"/>
+                        <seg corresp="lglc.xml#n72.71"/>
+                        <seg corresp="lglc.xml#n72.75"/>
+                    </p>
+                </event>
+
+                <event type="counter" xml:id="SRHP">
+                    <p>
+                        <name>Society for the Repression of Homosexuality counter protest</name>
+                        <date when="1972-09">September</date>
+                        <placeName corresp="places.xml#MON">Montreal</placeName>
+                        <orgName corresp="organizations.xml#GMU">GAY</orgName>
+                        <orgName corresp="organizations.xml#SRH">SRH</orgName>
+                        <seg corresp="lglc.xml#n72.79"/>
+                    </p>
+                </event>
+
+                <event xml:id="PTRUVP72">
+                    <p>
+                        <name>Peirre Trudeau Vancouver Protests 1972</name>
+                        <date when="1972-09-23">September 23</date>
+                        <placeName corresp="places.xml#HGV">Georgia Hotel</placeName>
+                        <placeName corresp="places.xml#PNE">Pacific National Exhibition</placeName>
+                        <orgName corresp="organizations.xml#CGAA">CGAA</orgName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <persName sameAs="people.xml#DRUL">Dick Rulens</persName>
+                        <persName sameAs="people.xml#PTRU">Pierre Trudeau</persName>
+                        <seg corresp="lglc.xml#n72.85"/>
+                    </p>
+                </event>
+
+                <event xml:id="SCT72">
+                    <p>
+                        <name>St. Charles Tavern Halloween march 72</name>
+                        <date when="1972-10-31">October 31</date>
+                        <placeName corresp="places.xml#SCT">St. Charles Tavern</placeName>
+                        <seg corresp="lglc.xml#n72.95"/>
+                    </p>
+                </event>
+
+                <event xml:id="VACM">
+                    <p>
+                        <name>Vietnam Action Committee March</name>
+                        <date when="1972-11-18">November 18</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <persName sameAs="people.xml#MFLO">Maurice Flood</persName>
+                        <seg corresp="lglc.xml#n72.100"/>
+                    </p>
+                </event>
+                <event xml:id="JPP">
+                    <p>
+                        <name>Jiffy Print Picket</name>
+                        <date when="1972-12-01">December 1</date>,<date when="1972-12-08">8</date>
+                        <placeName corresp="places.xml#JP">Jiffy Print</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <orgName corresp="organizations.xml#GPUBC">Gay People of UBC</orgName>
+                        <seg corresp="lglc.xml#n72.106"/>
+                    </p>
+                </event>
+
+
+
+
+
+
+
+
+
+                <event xml:id="WGPW73">
+                    <p>
+                        <name> Winnipeg Gay Pride Week 1973</name>
+                        <date from="1973-10-01" to="1973-10-06">October 1-6, 1973</date>
+                        <placeName corresp="places.xml#WIN">Winnipeg</placeName>
+                        <orgName corresp="organizations.xml#GRE">GFE</orgName>
+                        <seg corresp="lglc.xml#n73.113"/>
+                    </p>
+                </event>
+
+                <event xml:id="CHALC73">
+                    <p>
+                        <name>CHAL Conference 73</name>
+                        <date from="1973-10-06" to="1973-10-07">October 6-7 </date>
+                        <placeName corresp="places.xml#QUE">Quebec, Que.</placeName>
+                        <orgName corresp="organizations.xml#CHAL">CHAL</orgName>
+                        <orgName corresp="organizations.xml#NGEC">NGEC</orgName>
+                        <persName sameAs="people.xml#DGOY">Denise Goyette</persName>
+                        <seg corresp="lglc.xml#n73.115"/>
+                    </p>
+                </event>
+
+                <event xml:id="GATEVGS">
+                    <p>
+                        <name>GATE Vancouver Vs. Georgia Straight</name>
+                        <date from="1973-02-25" to="1973-04-08">February 25-April 8</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <title level="j" corresp="periodicals.xml#p131">Georgia
+                            Straight</title><orgName corresp="organizations.xml#GATEV"
+                            >GATE</orgName> persName <seg corresp="lglc.xml#n73.31"/>
+                    </p>
+                </event>
+
+                <event xml:id="TSD">
+                    <p>
+                        <name>Toronto Star Demonstration</name>
+                        <date when="1973-05-02">May 2</date>
+                        <placeName corresp="places.xml#TSB">Toronto Star Building</placeName>
+                        <title level="j" corresp="periodicals.xml#p10">The Body Politic</title>
+                        <orgName corresp="organizations.xml#GATET">GATE</orgName>
+                        <seg corresp="lglc.xml#n73.56"/>
+                    </p>
+                </event>
+
+
+
+
+
+
+
+                <event xml:id="GWF73">
+                    <p>
+                        <name>Gay Women's Festival </name>
+                        <date when="1973-06-30">June 30</date>
+                        <placeName corresp="places.xml#YWCAT">YWCA</placeName>
+                        <seg corresp="lglc.xml#n73.68"/>
+                    </p>
+                </event>
+
+                <event xml:id="HMORPC">
+                    <p>
+                        <name>Henry Morgentaler Press Conference</name>
+                        <date when="1973-08-17">August 17</date>
+                        <placeName corresp="places.xml#MON">Montreal</placeName>
+                        <orgName corresp="organizations.xml#LM">Montreal Gay Women</orgName>
+                        <persName sameAs="people.xml#HMOR">Dr. Henry Morgentaler</persName>
+                        <seg corresp="lglc.xml#n73.86"/>
+                    </p>
+                </event>
+
+                <event xml:id="NGPW73">
+                    <p>
+                        <name>National Gay Pride Week 1973</name>
+                        <date from="1973-08-17" to="1973-08-26">August 17-26</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <placeName corresp="places.xml#SAS">Saskatoon</placeName>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#OTT">Ottawa</placeName>
+                        <placeName corresp="places.xml#MON">Montreal</placeName>
+                        <placeName corresp="places.xml#HAL">Halifax</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <persName sameAs="people.xml#DCRO">David Crombie</persName>
+                        <seg corresp="lglc.xml#n73.87"/>
+                        <seg corresp="lglc.xml#n73.91"/>
+                        <seg corresp="lglc.xml#n73.69"/>
+                        <seg corresp="lglc.xml#n73.83"/>
+                    </p>
+                </event>
+
+                <event xml:id="HSMD">
+                    <p>
+                        <name>Halloween Sex Machine Demonstration</name>
+                        <date when="1973-10-31">October 31</date>
+                        <placeName corresp="places.xml#SM">Sex Machine</placeName>
+                        <orgName corresp="organizations.xml#WITCH">WITCH</orgName>
+                        <orgName corresp="organizations.xml#LM">Montreal Gay Women</orgName>
+                        <seg corresp="lglc.xml#n73.119"/>
+                    </p>
+                </event>
+                <event xml:id="GATEHRAD">
+                    <p>
+                        <name>GATE Human Rights Act Demonstration</name>
+                        <date when="1973-11-08">November 8</date>
+                        <placeName corresp="places.xml#BCL">B.C. Legislature</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE Vancouver</orgName>
+                        <persName sameAs="people.xml#WKIN">William King</persName>
+                        <seg corresp="lglc.xml#n73.123"/>
+                        <seg corresp="lglc.xml#n73.122"/>
+                    </p>
+                </event>
+
+                <event xml:id="GATEVSD">
+                    <p>
+                        <name>GATE Vancouver Sun Demonstration</name>
+                        <date when="1973-12-02">December 2</date>
+                        <placeName corresp="places.xml#PPB">Pacific Press Building 2250 Granville
+                            Street</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE Vancouver </orgName>
+                        <orgName corresp="organizations.xml#GPT">Gay People Together</orgName>
+                        <seg corresp="lglc.xml#n73.133"/>
+                    </p>
+                </event>
+                <event xml:id="JMOLT">
+                    <p>
+                        <name>Jearld Moldenhauer Tour</name>
+                        <date when="1974-01">January</date>
+                        <placeName corresp="places.xml#WIND">Windsor</placeName>, <placeName
+                            corresp="places.xml#THU">Thunder Bay</placeName>, <placeName
+                            corresp="places.xml#WIN">Winnipeg</placeName>, <placeName
+                            corresp="places.xml#EDM">Edmonton</placeName>, <placeName
+                            corresp="places.xml#CAL">Calgary</placeName>, and <placeName
+                            corresp="places.xml#VAN">Vancouver</placeName>
+                        <title level="j" corresp="periodicals.xml#p10">The Body
+                            Politic</title><orgName corresp="organizations.xml#NGEC"
+                            >NGEC</orgName><orgName corresp="organizations.xml#LGL">Lakehead Gay
+                            Liberation</orgName>
+                        <persName sameAs="people.xml#JMOL">Jearld Moldenhauer</persName>
+                        <seg corresp="lglc.xml#n74.12"/><seg corresp="lglc.xml#n74.14"/><seg
+                            corresp="lglc.xml#n74.27"/>
+                    </p>
+                </event>
+
+                <event xml:id="B4">
+                    <p>
+                        <name>Bruswick Four</name>
+                        <date when="1974">1974</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#BHT">Brunswick House Tavern</placeName>
+                        <orgName corresp="organizations.xml#B4">Brunswick Four</orgName><orgName
+                            corresp="organizations.xml#HASP">HASP</orgName>
+                        <persName sameAs="people.xml#JLAM">Judy LaMarsh</persName><persName
+                            sameAs="people.xml#APOT">Adrienne Potts</persName>
+                        <persName sameAs="people.xml#PMUR">Pat Murphy</persName><persName
+                            sameAs="people.xml#SWEL">Sue Wells</persName> and <persName
+                            sameAs="people.xml#HBEY">Heather Beyer</persName>
+                        <seg corresp="lglc.xml#n74.15"/><seg corresp="lglc.xml#n74.57"/>
+                    </p>
+                </event>
+
+                <event type="counter" xml:id="KCAMP">
+                    <p>
+                        <name>Ken Campbell Counter Protest</name>
+                        <date when="1974-02">February</date>
+                        <placeName corresp="places.xml#MIL">Milton, Ont</placeName>
+                        <orgName corresp="organizations.xml#MHA">Hamilton-McMaster GLM</orgName>
+                        <persName sameAs="people.xml#KCAM">Ken Campbell</persName>
+                        <seg corresp="lglc.xml#n74.33"/>
+                    </p>
+                </event>
+
+
+
+
+
+
+
+
+                <event xml:id="FLL">
+                    <p>
+                        <name>Festival of Life and Learning</name>
+                        <date when="1974-02-07">February 7</date>
+                        <placeName corresp="places.xml#WIN">Winnipeg</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <persName sameAs="people.xml#MFLO">Maurice Flood</persName>
+                        <seg corresp="lglc.xml#n74.41"/>
+                    </p>
+                </event>
+                <event xml:id="UUFW">
+                    <p>
+                        <name>UUF Wedding</name>
+                        <date when="1974-02-11">February 11</date>
+                        <placeName corresp="places.xml#WIN">Winnipeg</placeName>
+                        <orgName corresp="organizations.xml#UUF">Unitarian Universalist
+                            Fellowship</orgName>
+                        <persName sameAs="people.xml#RNOR">Richard North</persName>
+                        <persName sameAs="people.xml#CVOG">Chris Vogel</persName>
+                        <persName sameAs="people.xml#NNAY">Norman Naylor</persName>
+                        <seg corresp="lglc.xml#n74.43"/>
+                    </p>
+                </event>
+
+                <event xml:id="OHRCP">
+                    <p>
+                        <name>OHRC Picket</name>
+                        <date when="1974-02-18">February 18</date>
+                        <placeName corresp="places.xml#OHRCO">OHRC Offices</placeName>
+                        <orgName corresp="organizations.xml#OHRC">OHRC</orgName>
+                        <orgName corresp="organizations.xml#GATET">GATE Toronto</orgName>
+                        <persName sameAs="people.xml#RMCP">Robert McPhee</persName>
+                        <seg corresp="lglc.xml#n74.48"/>
+                        <seg corresp="lglc.xml#n74.56"/>
+                    </p>
+                </event>
+
+                <event xml:id="GAEC74">
+                    <p>
+                        <name>GAE Campaign 1974</name>
+                        <date when="1974-03">March</date>
+                        <placeName corresp="places.xml#HAL">Halifax</placeName>
+                        <orgName corresp="organizations.xml#GAE">GAE</orgName>
+                        <seg corresp="lglc.xml#n74.51"/>
+                    </p>
+                </event>
+
+                <event xml:id="RNOTL">
+                    <p>
+                        <name>Randy Notte Leaflet Distribution</name>
+                        <date when="1974-03">March</date>
+                        <placeName corresp="places.xml#VIC">Victoria, B.C.</placeName>
+                        <orgName corresp="organizations.xml#GPA">Gay People's Alliance</orgName>
+                        <persName sameAs="people.xml#RNOT">Randy Notte</persName>
+                        <seg corresp="lglc.xml#n74.55"/>
+                        <seg corresp="lglc.xml#n74.83"/>
+                    </p>
+                </event>
+
+                <event xml:id="QCHRD">
+                    <p>
+                        <name>Quebec Charter of Human Rights Demonstrations</name>
+                        <date from="1974-03" to="1974-05">Spring</date>
+                        <placeName corresp="places.xml#QUE">Quebec, Qué.</placeName>
+                        <orgName corresp="organizations.xml#AHM">AHM/GMA</orgName>, <orgName
+                            corresp="organizations.xml#CHAL">CHAL</orgName>, <orgName
+                            corresp="organizations.xml#CHUM">CHUM</orgName>
+                        <persName sameAs="people.xml#RBEL">Roger Bellemare</persName>
+                        <seg corresp="lglc.xml#n74.74"/><seg corresp="lglc.xml#n75.19"/>
+                    </p>
+                </event>
+                <event xml:id="FE74">
+                    <p>
+                        <name>Federal Election 1974 demonstrations</name>
+                        <date from="1974-03" to="1974-06-08">Spring to July 8</date>
+                        <placeName corresp="places.xml#CAN">Canada</placeName>
+                        <orgName corresp="organizations.xml#GATET">GATE</orgName>
+                        <orgName corresp="organizations.xml#GO">GO</orgName>
+                        <orgName corresp="organizations.xml#NGEC">NGEC</orgName>
+                        <orgName corresp="organizations.xml#GPA">Gay People's Alliance</orgName>
+                        <orgName corresp="organizations.xml#UGGE">UGHA</orgName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <persName sameAs="people.xml#RDAY">Ron Dayman</persName>
+                        <persName sameAs="people.xml#WKLI">Walter Klinger</persName>
+                        <persName sameAs="people.xml#AGIL">Alastair Gillespie</persName>
+                        <persName sameAs="people.xml#PTRU">Pierre Trudeau</persName>
+                        <persName sameAs="people.xml#DLEW">David Lewis</persName>
+                        <persName sameAs="people.xml#JTUR">John Turner</persName>
+                        <persName sameAs="people.xml#RNOT">Randy Notte</persName>
+                        <persName sameAs="people.xml#JHAR">John Hare</persName>
+                        <seg corresp="lglc.xml#n74.77"/>
+                        <seg corresp="lglc.xml#n74.83"/>
+                        <seg corresp="lglc.xml#n74.102"/>
+                        <seg corresp="lglc.xml#n74.103"/>
+                        <seg corresp="lglc.xml#n74.108"/>
+                        <seg corresp="lglc.xml#n74.113"/>
+                        <seg corresp="lglc.xml#n74.114"/>
+                        <seg corresp="lglc.xml#n74.117"/>
+                        <seg corresp="lglc.xml#n74.118"/>
+                        <seg corresp="lglc.xml#n74.119"/>
+                        <seg corresp="lglc.xml#n74.128"/>
+                    </p>
+                </event>
+
+                <event xml:id="MDP">
+                    <p>
+                        <name>Manny's Deli Pickets</name>
+                        <date when="1974-05-31">May 31</date>
+                        <placeName corresp="places.xml#MD">Manny's delicatessen</placeName>
+                        <seg corresp="lglc.xml#n74.105"/>
+                    </p>
+                </event>
+
+                <event xml:id="DPP">
+                    <p>
+                        <name>Derksen Printers Picket</name>
+                        <date when="1974-07-02">July 2</date>
+                        <placeName corresp="places.xml#DP">Derksen Printers</placeName>
+                        <orgName corresp="organizations.xml#GRE">GFE</orgName>
+                        <seg corresp="lglc.xml#n74.127"/>
+                    </p>
+                </event>
+
+                <event xml:id="NGPW74">
+                    <p>
+                        <name>National Gay Pride Week 1974</name>
+                        <date from="1974-08-17" to="1974-08-25">August 17-25</date>
+                        <placeName corresp="places.xml#CAN">Canada </placeName>
+                        <seg corresp="lglc.xml#n74.137"/>
+                        <seg corresp="lglc.xml#n74.138"/>
+                    </p>
+                </event>
+
+                <event xml:id="NGM74">
+                    <p>
+                        <name>National Gay March 1974</name>
+                        <date when="1974-08-31">August 31</date>
+                        <placeName corresp="places.xml#WIN">Winnipeg</placeName>
+                        <orgName corresp="organizations.xml#GRE">GFE</orgName>
+                        <orgName corresp="organizations.xml#GATET">GATE</orgName>
+                        <orgName corresp="organizations.xml#CNDH">NGRC/CNDH</orgName>
+                        <orgName corresp="organizations.xml#NGEC">NGEC</orgName>
+                        <persName sameAs="people.xml#RDAY">Ron Dayman</persName>
+                        <seg corresp="lglc.xml#n74.143"/>
+                    </p>
+                </event>
+
+                <event xml:id="JKYPD">
+                    <p>
+                        <name>John Kyper Demonstrations</name>
+                        <date from="1974-08-26" to="1975-03">August 26 to March 1975</date>
+                        <placeName corresp="places.xml#OTT">Ottawa</placeName>
+                        <placeName corresp="places.xml#NF">Niagara Falls, Ont.</placeName>
+                        <orgName corresp="organizations.xml#FR">Fag Rag</orgName>
+                        <orgName corresp="organizations.xml#GO">GO</orgName>
+                        <orgName corresp="organizations.xml#GATET">GATE</orgName>
+                        <persName sameAs="people.xml#JKYP">John Kyper</persName>
+                        <persName sameAs="people.xml#RDAY">Ron Dayman</persName>
+                        <persName sameAs="people.xml#CHIL">Charles Hill</persName>
+                        <persName sameAs="people.xml#DLEB">Denis LeBlanc</persName>
+                        <persName sameAs="people.xml#TSHE">T.B. Sheehan</persName>
+                        <persName sameAs="people.xml#RAND">Robert Andras</persName>
+                        <seg corresp="lglc.xml#n74.142"/>
+                        <seg corresp="lglc.xml#n74.174"/>
+                        <seg corresp="lglc.xml#n74.177"/>
+                    </p>
+                </event>
+                <event xml:id="TSTARP">
+                    <p>
+                        <name>Toronto Star Protests</name>
+                        <date from="1974-10-19" to="1974-11-10">October 19 to November 10</date>
+                        <placeName corresp="places.xml#TSB">Toronto Star building</placeName>
+                        <placeName corresp="places.xml#BHON">Beland Honderich's home</placeName>
+                        <orgName corresp="organizations.xml#CMFTG">Committee for Media Fairness to
+                            Gays</orgName>
+                        <persName sameAs="people.xml#KROE">Karl John Roestad</persName>
+                        <persName sameAs="people.xml#GHAN">Gerald Hannon</persName>
+                        <persName sameAs="people.xml#TPHI">Terence Phillips</persName>
+                        <persName sameAs="people.xml#BHON">Beland Honderich</persName>
+                        <seg corresp="lglc.xml#n74.175"/>
+                        <seg corresp="lglc.xml#n74.182"/>
+                        <seg corresp="lglc.xml#n74.192"/>
+                    </p>
+                </event>
+
+                <event xml:id="TSUNP">
+                    <p>
+                        <name>Toronto Sun Protests</name>
+                        <date when="1974-10-26">October 26</date>
+                        <placeName corresp="places.xml#TSUN">Toronto Sun building</placeName>
+                        <orgName corresp="organizations.xml#GATET">GATE</orgName>
+                        <seg corresp="lglc.xml#n74.176"/>
+                        <seg corresp="lglc.xml#n74.180"/>
+                    </p>
+                </event>
+
+
+
+
+
+                <event xml:id="VSUNP74">
+                    <p>
+                        <name>Vancouver Sun Protest 1974</name>
+                        <date when="1974-10-23">October 23 1974</date>
+                        <date when="1975-02-28">February 28 1975</date>
+                        <date when="1975-09-19">September 19 1975</date>
+                        <placeName corresp="places.xml#PPB">Pacific Press building</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <title level="j" corresp="periodicals.xml#p39">Gay Tide</title>
+                        <persName sameAs="people.xml#MFLO">Maurice Flood</persName>
+                        <persName sameAs="people.xml#JWOO">Joe Wood</persName>
+                        <persName sameAs="people.xml#HHEN">Herbert Hendin</persName>
+                        <seg corresp="lglc.xml#n74.178"/>
+                        <seg corresp="lglc.xml#n74.198"/>
+                        <seg corresp="lglc.xml#n75.35"/>
+                        <seg corresp="lglc.xml#n75.150"/>
+                    </p>
+                </event>
+
+                <event xml:id="MAB">
+                    <p>
+                        <name>Madame Arthur's Boycott</name>
+                        <date when="1974-11">November</date>
+                        <placeName corresp="places.xml#MA">Madame Arthur's</placeName>
+                        <seg corresp="lglc.xml#n74.185"/>
+                    </p>
+                </event>
+
+                <event xml:id="WGPW74">
+                    <p>
+                        <name>Winnipeg Gay Pride Week 1974</name>
+                        <date from="1974-11-10" to="1974-11-16">November 10-16</date>
+                        <placeName corresp="places.xml#WIN">Winnipeg</placeName>
+                        <orgName corresp="organizations.xml#GRE">GFE</orgName>
+                        <seg corresp="lglc.xml#n74.193"/>
+                    </p>
+                </event>
+
+                <event xml:id="SEARCHP">
+                    <p>
+                        <name>SEARCH Protests</name>
+                        <date when="1974-11-23">November 23</date>
+                        <date when="1974-12-17">December 17</date>
+                        <placeName corresp="places.xml#VPH">police headquarters</placeName>
+                        <orgName corresp="organizations.xml#SEARCH">Society for Education Action
+                            Research and Counselling on Homosexuality</orgName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <persName sameAs="people.xml#MCRA">Malcolm Crane</persName>
+                        <persName sameAs="people.xml#WHAG">Warren Hague</persName>
+                        <seg corresp="lglc.xml#n74.199"/>
+                        <seg corresp="lglc.xml#n74.200"/>
+                        <seg corresp="lglc.xml#n74.207"/>
+                    </p>
+                </event>
+
+                <event xml:id="ICAR">
+                    <p>
+                        <name>International Committee Against Racism</name>
+                        <date when="1975-01-25">January 25</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <seg corresp="lglc.xml#n75.21"/>
+                    </p>
+                </event>
+
+                <event type="counter" xml:id="GAGP">
+                    <p>
+                        <name>Gays at Guelph counter Protest</name>
+                        <date when="1975-02">February</date>
+                        <placeName corresp="places.xml#UGUE">University of Guelph</placeName>
+                        <title level="j" corresp="periodicals.xml#p170">Ontarion </title>
+                        <seg corresp="lglc.xml#n75.22"/>
+                    </p>
+                </event>
+
+                <event xml:id="CDJDP">
+                    <p>
+                        <name>Committee to Defend John Damien protests</name>
+                        <date from="1975-02-07" to="1976-07">February 7,1975 to July 1976</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#OHRC">Ontario Human Rights
+                            Commission</orgName><orgName corresp="organizations.xml#CDJD">Committee
+                            to Defend John Damien</orgName><orgName
+                            corresp="organizations.xml#GATET">GATE</orgName>
+                        <persName sameAs="people.xml#JDAM">John Damien</persName><persName
+                            sameAs="people.xml#CBEA">Christine Bearchell</persName>
+                        <persName sameAs="people.xml#TOMU">Thoreau Willard O'Mulvenny</persName>
+                        <seg corresp="lglc.xml#n75.28"/><seg corresp="lglc.xml#n75.32">February
+                            22</seg>, <seg corresp="lglc.xml#n75.44">March 14,</seg>
+                        <seg corresp="lglc.xml#n48.48">21</seg>, <seg corresp="lglc.xml#n75.74">May
+                            6</seg>, <seg corresp="lglc.xml#n75.76">10</seg>, <seg
+                            corresp="lglc.xml#n75.77">11,</seg>
+                        <seg corresp="lglc.xml#n75.80">13,</seg>
+                        <seg corresp="lglc.xml#n75.83">24-25,</seg>
+                        <seg corresp="lglc.xml#n75.102">June 24,</seg>
+                        <seg corresp="lglc.xml#n75.106">June 28-July 1,</seg>
+                        <seg corresp="lglc.xml#n75.141">August 31,</seg>
+                        <seg corresp="lglc.xml#n75.146">September,</seg>
+                        <seg corresp="lglc.xml#n75.148">September 13,</seg>
+                        <seg corresp="lglc.xml#n75.164">October</seg>
+                        <seg corresp="lglc.xml#n75.177">October 23</seg>
+                        <seg corresp="lglc.xml#n75.178">24</seg>
+                        <seg corresp="lglc.xml#n75.183">30</seg>
+                        <seg corresp="lglc.xml#n75.214">December 5</seg>
+                    </p>
+                </event>
+
+                <event xml:id="MIOP">
+                    <p>
+                        <name>Manpower and Immigration Office Protest</name>
+                        <date when="1975-02-15">February 15</date>
+                        <placeName corresp="places.xml#MIO">Manpower and Immigration
+                            offices</placeName>
+                        <orgName corresp="organizations.xml#GATET">GATE</orgName>
+                        <seg corresp="lglc.xml#n75.30"/>
+                    </p>
+                </event>
+
+                <event xml:id="WZUFP">
+                    <p>
+                        <name>Warren Zufelt Protests</name>
+                        <date from="1975-03-03" to="1976-04">March 3, 1975 to April 1976</date>
+                        <placeName corresp="places.xml#OJO">Ottawa Journal Office</placeName>
+                        <orgName corresp="organizations.xml#GO">GO</orgName>
+                        <orgName corresp="organizations.xml#WZMDF">Warren Zufelt Memorial Defence
+                            Fund</orgName>
+                        <persName sameAs="people.xml#MGRA">Michel Gravel</persName>
+                        <persName sameAs="people.xml#WZUF">Warren Zufelt</persName>
+                        <persName sameAs="people.xml#MCAS">Michael Cassidy</persName>
+                        <persName sameAs="people.xml#JCLE">John Clement</persName>
+                        <seg corresp="lglc.xml#n75.40"/>
+                    </p>
+                </event>
+                <event xml:id="MDM">
+                    <p>
+                        <name>May Day March</name>
+                        <date when="1975-05">May 1</date>
+                        <placeName corresp="places.xml#MON">Montreal</placeName>
+                        <seg corresp="lglc.xml#n75.72"/>
+                    </p>
+                </event>
+
+                <event xml:id="WDLD">
+                    <p>
+                        <name>Wages Due Lesbians Demonstration</name>
+                        <date when="1975-05-02">May 2</date>
+                        <placeName corresp="places.xml#TCH">Toronto City Hall</placeName>
+                        <orgName corresp="organizations.xml#WDL">Wages Due Lesbians</orgName>
+                        <seg corresp="lglc.xml#n75.73"/>
+                    </p>
+                </event>
+
+                <event xml:id="WU">
+                    <p>
+                        <name>Woman Unite march</name>
+                        <date when="1975-05-10">May 10</date>
+                        <placeName corresp="places.xml#MON">Montreal</placeName>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <persName sameAs="people.xml#JDAM">John Damien</persName>
+                        <persName sameAs="people.xml#HMOR">Henry Morgentaler</persName>
+                        <seg corresp="lglc.xml#n75.77"/>
+                    </p>
+                </event>
+
+                <event xml:id="PPHP">
+                    <p>
+                        <name>Park Plaza Hotel Protest</name>
+                        <date when="1975-06-09">June 9</date>
+                        <placeName corresp="places.xml#PPH">Park Plaza Hotel</placeName>
+                        <orgName corresp="organizations.xml#GATET">GATE</orgName>
+                        <seg corresp="lglc.xml#n75.97"/>
+                    </p>
+                </event>
+
+                <event xml:id="SPBP">
+                    <p>
+                        <name>Star Phoenix Building Protest</name>
+                        <date when="1975-06-10">June 10</date>
+                        <placeName corresp="places.xml#SPB">Star Phoenix building</placeName>
+                        <seg corresp="lglc.xml#n75.98"/>
+                    </p>
+                </event>
+
+                <event xml:id="HDESC">
+                    <p>
+                        <name>Harold Desmarais Campaign</name>
+                        <date from="1975-07-04"/>
+                        <placeName corresp="places.xml#CAN">Canada </placeName>
+                        <placeName corresp="places.xml#NDP">NDP</placeName>
+                        <orgName corresp="organizations.xml#WGU">WGU</orgName>
+                        <persName sameAs="people.xml#HDES">Harold B. Desmarais</persName>
+                        <seg corresp="lglc.xml#n75.127"/>
+                    </p>
+                </event>
+
+                <event xml:id="NWPP">
+                    <p>
+                        <name>New Westminster Penitentiary Protests</name>
+                        <date when="1975-07-23">July 23</date>
+                        <placeName corresp="places.xml#NWP">New Westminster penitentiary</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <seg corresp="lglc.xml#n75.131"/>
+                    </p>
+                </event>
+
+                <event xml:id="HMOR75">
+                    <p>
+                        <name>Henry Morgentaler Protests 1975</name>
+                        <date when="1975-08-11">August 11</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <orgName corresp="organizations.xml#CARAL">CARAL</orgName>
+                        <persName sameAs="people.xml#HMOR">Henry Morgentaler</persName>
+                        <seg corresp="lglc.xml#n75.137"/>
+                    </p>
+                </event>
+
+                <event xml:id="DWILP">
+                    <p>
+                        <name>Doug Wilson Protests</name>
+                        <date when="1975-09-22">September 22</date>
+                        <placeName corresp="places.xml#SAS">Saskatoon</placeName>
+                        <orgName corresp="organizations.xml#CDDW">Committee to Defend Doug
+                            Wilson</orgName>
+                        <persName sameAs="people.xml#JKIR">James Kirkpatrick</persName>
+                        <persName sameAs="people.xml#DWIL">Doug Wilson</persName>
+                        <seg corresp="lglc.xml#n75.151"/>
+                        <seg corresp="lglc.xml#n75.162">October</seg>
+                        <seg corresp="lglc.xml#n75.166">October 2</seg>
+                        <seg corresp="lglc.xml#n75.167">3-5</seg>
+                        <seg corresp="lglc.xml#n75.169">7</seg>
+                        <seg corresp="lglc.xml#n75.171">9</seg>
+                        <seg corresp="lglc.xml#n75.173">11-13</seg>
+                        <seg corresp="lglc.xml#n75.175">18</seg>
+                        <seg corresp="lglc.xml#n75.176">19</seg>
+                        <seg corresp="lglc.xml#n75.177">22</seg>
+                        <seg corresp="lglc.xml#n75.178"> 23</seg>
+                        <seg corresp="lglc.xml#n75.180">25</seg>
+                        <seg corresp="lglc.xml#n75.184">30</seg>
+                        <seg corresp="lglc.xml#n75.200">November 9</seg>
+                    </p>
+                </event>
+
+                <event xml:id="IWYPH">
+                    <p>
+                        <name>International Women's Year Parliment Hill Protest</name>
+                        <date when="1975-10-25">October 25</date>
+                        <placeName corresp="places.xml#PH">Parliament Hill</placeName>
+                        <orgName corresp="organizations.xml#GO">GO</orgName>
+                        <persName sameAs="people.xml#DWIL">Doug Wilson</persName>
+                        <persName sameAs="people.xml#MROB">Marie Robertson</persName>
+                        <seg corresp="lglc.xml#n75.180"/>
+                    </p>
+                </event>
+
+                <event xml:id="MCPP">
+                    <p>
+                        <name>Miss Canada Pagent Protest</name>
+                        <date when="1975-11-03">November 3</date>
+                        <placeName corresp="places.xml#NCN">CFTO studio</placeName>
+                        <orgName corresp="organizations.xml#RL">Radical Lesbian Feminists</orgName>
+                        <persName sameAs="people.xml#APOT">Adrienne Potts</persName>
+                        <seg corresp="lglc.xml#n75.192"/>
+                    </p>
+                </event>
+
+                <event xml:id="GOLIB">
+                    <p>
+                        <name>Gays of Ottawa vs. The Liberal Party</name>
+                        <date when="1975-11-07">November 7</date>
+                        <placeName corresp="places.xml#CL">Chateau Laurier</placeName>
+                        <orgName corresp="organizations.xml#GO">GO</orgName>
+                        <orgName corresp="organizations.xml#LIB">Liberal Party</orgName>
+                        <persName sameAs="people.xml#PTRU">Pierre Trudeau</persName>
+                        <seg corresp="lglc.xml#n75.197"/>
+                    </p>
+                </event>
+
+                <event xml:id="CUPES">
+                    <p>
+                        <name>CUPE Strike</name>
+                        <date from="1975-11-20" to="1975-12-09">November 20 to December 9</date>
+                        <placeName corresp="places.xml#UT">University of Toronto</placeName>
+                        <orgName corresp="organizations.xml#CUPE1230">CUPE Local 1230</orgName>
+                        <seg corresp="lglc.xml#n75.204"/>
+                    </p>
+                </event>
+
+                <event xml:id="CGROP">
+                    <p>
+                        <name>CGRO Queen's Park Protest</name>
+                        <date when="1975-12-04">December 4</date>
+                        <placeName corresp="places.xml#QP">Queen's Park</placeName>
+                        <orgName corresp="organizations.xml#CGRO">CGRO</orgName>
+                        <persName sameAs="people.xml#BSTE">Bette Stephenson</persName>
+                        <seg corresp="lglc.xml#n75.213"/>
+                    </p>
+                </event>
+
+                <event xml:id="CNDHP">
+                    <p>
+                        <name>CNDH Protest</name>
+                        <date when="1975-12-11">December 11</date>
+                        <placeName corresp="places.xml#OTT">Ottawa</placeName>
+                        <orgName corresp="organizations.xml#CNDH">NGRC/CNDH</orgName>
+                        <seg corresp="lglc.xml#n75.215"/>
+                    </p>
+                </event>
+
+                <event xml:id="MLKDP74">
+                    <p>
+                        <name>Martin Luther King Day Protest 1974</name> date placeName orgName
+                        persName <seg corresp="lglc.xml#n74.82"/>
+                    </p>
+                </event>
+
+                <event xml:id="GLAT76">
+                    <p>
+                        <name>Gordon Latham Office Picket 1976</name>
+                        <date when="1976-03-23">March 23, 1976</date>
+                        <placeName corresp="places.xml#GLAT">office space</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE</orgName>
+                        <orgName corresp="organizations.xml#GLAT">Gordon Latham Ltd.</orgName>
+                        persName <seg corresp="lglc.xml#n76.45"/>
+                    </p>
+                </event>
+
+
+                <event xml:id="IWDM">
+                    <p>
+                        <name>First International Woman's Day March</name>
+                        <date when="1976-03-08">March 8</date>
+                        <placeName corresp="places.xml#MON">Montréal</placeName>
+                        <orgName corresp="organizations.xml#CHUM">CHUM</orgName>
+                        <orgName corresp="organizations.xml#GHAP">GHAP</orgName>
+                        <seg corresp="lglc.xml#n76.48"/>
+                    </p>
+                </event>
+
+
+                <event xml:id="UTR">
+                    <p>
+                        <name>University of Toronto Protest of Gov cutbacks</name>
+                        <date when="1976-03-11">March 11</date>
+                        <placeName corresp="places.xml#UT">University of Toronto</placeName>
+                        <orgName corresp="organizations.xml#WDC">Wages Due Collective</orgName>
+                        <persName sameAs="people.xml#EAGG">Ellen Agger</persName>
+                        <seg corresp="lglc.xml#n76.52"/>
+                    </p>
+                </event>
+
+                <event xml:id="MOC">
+                    <p>
+                        <name>Demonstration against Montreal Olympic crackdown</name>
+                        <date when="1976-06-19"/>
+                        <placeName corresp="places.xml#MON">Montréal</placeName>
+                        <orgName corresp="organizations.xml#CHAR">CHAR/GCAR</orgName>
+                        <seg corresp="lglc.xml#n76.103"/>
+                    </p>
+                </event>
+
+                <event xml:id="CBCDP">
+                    <p>
+                        <!-- JB -->
+                        <name>CBC Discriminatory Policy Protest (against gay public service
+                            announcements</name>
+                        <date when="1977-02-19"> February 19</date>
+                        <placeName corresp="places.xml#HAL">Halifax</placeName>, <placeName
+                            corresp="places.xml#MON">Montréal</placeName>, <placeName
+                            corresp="places.xml#OTT">Ottawa</placeName>, <placeName
+                            corresp="places.xml#TOR">Toronto</placeName>, <placeName
+                            corresp="places.xml#WIN">Winnipeg</placeName>, <placeName
+                            corresp="places.xml#VAN">Vancouver</placeName>
+                        <orgName corresp="organizations.xml#CBC">CBC</orgName>
+                        <seg corresp="lglc.xml#n77.67"/>
+                    </p>
+                </event>
+
+
+
+                <event xml:id="KLP">
+                    <p>
+                        <!-- JB -->
+                        <name>King's Lounge Picketed </name>
+                        <date when="1977-03-12">March 12, 1977</date>
+                        <placeName corresp="places.xml#KL">King's Lounge</placeName>
+                        <orgName corresp="organizations.xml#QHA">QHA</orgName>
+                        <seg corresp="lglc.xml#n77.91"/>
+                    </p>
+                </event>
+
+                <event xml:id="MAHRR">
+                    <p>
+                        <name>March Against Human Rights Act (Regina)</name>
+                        <date when="1977-03-12">March 12, 1977</date>
+                        <placeName corresp="places.xml#REG">Regina</placeName>
+                        <orgName corresp="organizations.xml#SAHR">SAHR</orgName>
+                        <persName sameAs="people.xml#WDAV">Walter Davis</persName>
+                        <persName sameAs="people.xml#MNEU">Mallory Neuman</persName>
+                        <persName sameAs="people.xml#BSIL">Bev Siller</persName>
+                        <persName sameAs="people.xml#DWIL">Doug Wilson</persName>
+                        <seg corresp="lglc.xml#n77.94"/>
+                    </p>
+                </event>
+                <event xml:id="CTWW">
+                    <p>
+                        <name>"We'll Have the Children That We Want" free access to abortion
+                            demonstration</name>
+                        <date when="1977-04-02"/>
+                        <placeName corresp="places.xml#MON">Montréal</placeName>
+                        <orgName corresp="organizations.xml#CHAR">ADGQ</orgName>
+                        <seg corresp="#n77.85">See also March 8, 1977</seg>
+                        <seg corresp="lglc.xml#n77.121"/>
+                    </p>
+                </event>
+
+                <event xml:id="CARH77">
+                    <p>
+                        <name>The Carleton Hotel Protest 1977</name>
+                        <date when="1977-04-30">April 30</date>
+                        <placeName corresp="places.xml#CARH">Carleton Hotel</placeName>
+                        <orgName corresp="organizations.xml#GAE">GAE</orgName>
+                        <seg corresp="lglc.xml#n77.137"/>
+                    </p>
+                </event>
+                <event xml:id="QCGRO">
+                    <p>
+                        <name>Gay Rights March from Queen's Park to City Hall (CGRO)</name>
+                        <date when="1977-05-21">May 21</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#CGRO">CGRO</orgName>
+                        <seg corresp="lglc.xml#n77.153"/>
+                    </p>
+                </event>
+
+                <event xml:id="ABRY1">
+                    <p>
+                        <!-- SRS -->
+                        <name>Anti-Anita Bryant protest at CBC building (effigy burning)</name>
+                        <date when="1977-06-25">June 25</date>
+                        <placeName corresp="places.xml#CBCO">CBC Office</placeName>
+                        <orgName corresp="organizations.xml#FLAG">CSAB</orgName>
+                        <seg corresp="lglc.xml#n77.182"/>
+                    </p>
+                </event>
+
+                <event xml:id="ECRSCO">
+                    <p>
+                        <!-- SRS -->
+                        <name>Picket for equal custody rights for lesbian mothers at Supreme Court
+                            of Ontario</name>
+                        <date when="1977-07-13">July 13</date>
+                        <placeName corresp="places.xml#OGH">Osgoode Hall (seat of the Supreme Court
+                            of Ontario)</placeName>
+                        <orgName corresp="organizations.xml#WDL">WDL</orgName>
+                        <seg corresp="lglc.xml#n77.198"/>
+                    </p>
+                </event>
+
+                <event xml:id="QPCR">
+                    <p>
+                        <!-- SRS -->
+                        <name>Queen's Park candlelight rally (anti-Anita Bryant rally)</name>
+                        <date when="1977-07-22">July 22</date>
+                        <placeName corresp="places.xml#TCH">Toronto City Hall</placeName>
+                        <placeName corresp="places.xml#QP">Queen's Park</placeName>
+                        <orgName corresp="organizations.xml#FLAG">CSAB</orgName>
+                        <seg corresp="lglc.xml#n77.203"/>
+                    </p>
+                </event>
+
+                <event xml:id="GUW">
+                    <p>
+                        <!-- SRS -->
+                        <name>Gay Unity Week</name>
+                        <date from="1977-07-23" to="1977-08-01">July 23 to August 1</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <seg corresp="lglc.xml#n77.204"/>
+                    </p>
+                </event>
+
+                <event xml:id="PCAGD">
+                    <p>
+                        <!-- SRS -->
+                        <name>Portuguese-Canadian Anti-gay demonstration</name>
+                        <date when="1977-08-08">August 8</date>
+                        <placeName corresp="places.xml#TCH">City Hall</placeName>
+                        <placeName corresp="places.xml#OL">Ontario Legislature</placeName>
+                        <seg corresp="lglc.xml#n77.217"/>
+                    </p>
+                </event>
+
+                <event xml:id="NPAWGO">
+                    <p>
+                        <!-- SRS -->
+                        <name>Native protest against Art Works Galleries owners</name>
+                        <date when="1977-08">Late August</date>
+                        <placeName corresp="places.xml#QP">Queen's Park</placeName>
+                        <placeName corresp="places.xml#NCCT">Native Canadian Centre of
+                            Toronto</placeName>
+                        <seg corresp="lglc.xml#n77.223"/>
+                    </p>
+                </event>
+
+                <event xml:id="WEDAG">
+                    <p>
+                        <!--SRS -->
+                        <name>Protest against employment discrimination against gays
+                            (Windsor)</name>
+                        <date when="1977-10-22">October 22</date>
+                        <placeName corresp="places.xml#WIND">Windsor</placeName>
+                        <!-- might benefit from some more precise location info but this hasnt been tagged in the original entry either -->
+                        <seg corresp="lglc.xml#n77.283"/>
+                    </p>
+                </event>
+
+                <event xml:id="RTM">
+                    <p>
+                        <!-- SRS -->
+                        <name>Protest against raids on Truxx and Mystique</name>
+                        <date when="1977-10-23">October 23</date>
+                        <placeName corresp="places.xml#SSC">Stanley and St. Catherine
+                            Streets</placeName>
+                        <orgName corresp="organizations.xml#CHAR">ADGQ</orgName>
+                        <seg corresp="lglc.xml#n77.284"/>
+                    </p>
+                </event>
+
+                <event xml:id="OPJOL">
+                    <p>
+                        <!-- SRS -->
+                        <name>Operation Jack O'Lantern (1977)</name>
+                        <date when="1977-10-31">Halloween</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#SCT">St. Charles Tavern</placeName>
+                        <orgName corresp="organizations.xml#GATET">GATE</orgName>
+                        <orgName corresp="organizations.xml#MCCT">MCC Toronto</orgName>
+                        <seg corresp="lglc.xml#n77.295"/>
+                    </p>
+                    <p>
+                        <name>Operation Jack O'Lantern (1978)</name>
+                        <date when="1978-10-31">Halloween</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#SCT">St. Charles Tavern</placeName>
+                        <orgName corresp="organizations.xml#GATET">GATE</orgName>
+                        <orgName corresp="organizations.xml#MCCT">MCC Toronto</orgName>
+                        <seg corresp="1978.xml#n78.354"/>
+                    </p>
+                    <p>
+                        <name>Operation Jack O'Lantern (1979)</name>
+                        <date when="1979-10-31">Halloween</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#SCT">St. Charles Tavern</placeName>
+                        <seg corresp="1979.xml#n79.336"/>
+                    </p>
+                </event>
+
+                <event xml:id="GSCPH">
+                    <p>
+                        <!-- SRS -->
+                        <name>Georgia Street courthouse rally against police harassment</name>
+                        <date when="1977-06-04">June 4</date>
+                        <placeName corresp="places.xml#VAGA">Georgia Street courthouse</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE Vancouver</orgName>
+                        <seg corresp="lglc.xml#n77.170"/>
+                    </p>
+                </event>
+
+                <event xml:id="MSEJ">
+                    <p>
+                        <!-- SRS -->
+                        <name>Moment of silence and march for Emanuel Jaques</name>
+                        <date from="1977-08-02" to="1977-08-03">August 2–3</date>
+                        <placeName corresp="places.xml#RP">Regent Park</placeName>
+                        <placeName corresp="places.xml#TCH">City Hall</placeName>
+                        <seg corresp="lglc.xml#n77.213"/>
+                    </p>
+                </event>
+
+                <event xml:id="DPJD">
+                    <p>
+                        <!-- SRS -->
+                        <name>Days of Protest for John Damien</name>
+                        <date from="1977-10-21" to="1977-10-22">October 21–22</date>
+                        <placeName corresp="places.xml#CAL">Calgary</placeName>
+                        <placeName corresp="places.xml#EDM">Edmonton</placeName>
+                        <placeName corresp="places.xml#HAL">Halifax</placeName>
+                        <placeName corresp="places.xml#MON">Montréal</placeName>
+                        <placeName corresp="places.xml#OTT">Ottawa</placeName>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <placeName corresp="places.xml#WIND">Windsor</placeName>
+                        <persName sameAs="people.xml#JDAM">John Damien</persName>
+                        <orgName corresp="organizations.xml#CNDH">NGRC</orgName>
+                        <seg corresp="lglc.xml#n77.281"/>
+                    </p>
+                </event>
+
+                <event xml:id="TRPHQ">
+                    <p>
+                        <!--SRS -->
+                        <name>Truxx raid protest at SPVM HQ</name>
+                        <date when="1977-11-04">November 4</date>
+                        <placeName corresp="places.xml#SPVMHQ">SPVM headquarters</placeName>
+                        <seg corresp="lglc.xml#n77.302"/>
+                    </p>
+                </event>
+
+                <event xml:id="BPR1">
+                    <p>
+                        <!-- SRS -->
+                        <name>First protest of police raid on Body Politic</name>
+                        <date when="1978-01-01">January 1</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE Vancouver</orgName>
+                        <seg corresp="1978.xml#n78.40"/>
+                    </p>
+                </event>
+
+                <event xml:id="ABRY2">
+                    <p>
+                        <!-- SRS -->
+                        <name>Large anti-Anita Bryant rally at St. Lawrence market</name>
+                        <date from="1978-01-14" to="1978-01-15">January 14–15</date>
+                        <persName sameAs="people.xml#PMUR">Pat Murphy</persName>
+                        <persName sameAs="people.xml#ABRY">Anita Bryant</persName>
+                        <placeName corresp="places.xml#STLM">St. Lawrence Market</placeName>
+                        <placeName corresp="places.xml#PEO">People’s Church</placeName>
+                        <seg corresp="1978.xml#n78.49"/>
+                    </p>
+                </event>
+
+                <event xml:id="BPR2">
+                    <p>
+                        <!-- SRS -->
+                        <name>San Francisco demonstration against Body Politic raid</name>
+                        <date when="1978-01-24">January 24</date>
+                        <placeName corresp="places.xml#CGCSF">Canadian consulate</placeName>
+                        <persName sameAs="people.xml#HMIL">Harvey Milk</persName>
+                        <seg corresp="1978.xml#n78.65"/>
+                    </p>
+                </event>
+
+                <event xml:id="BPR3">
+                    <p>
+                        <!-- SRS -->
+                        <name>London, England picket against Body Politic raid</name>
+                        <date when="1978-01-27">January 27</date>
+                        <placeName corresp="places.xml#CANH">Canada House</placeName>
+                        <seg corresp="1978.xml#n78.67"/>
+                    </p>
+                </event>
+
+                <event xml:id="BPR4">
+                    <p>
+                        <!-- SRS -->
+                        <name>Trafalgar square demonstration supporting Gay News and the Body
+                            Politic</name>
+                        <date when="1978-02-11">February 11</date>
+                        <placeName corresp="places.xml#CANH">Canada House</placeName>
+                        <seg corresp="1978.xml#n78.94"/>
+                    </p>
+                </event>
+
+                <event xml:id="MLIWD">
+                    <p>
+                        <!-- SRS -->
+                        <name>International Women's Day demonstration at Manitoba Legislature
+                            against cuts by Conservative government</name>
+                        <date when="1978-03-08">March 8</date>
+                        <placeName corresp="places.xml#ML">Manitoba Legislature</placeName>
+                        <orgName corresp="organizations.xml#WDL">WDL</orgName>
+                        <title level="j" corresp="periodicals.xml#p311">After Stonewall</title>
+                        <seg corresp="1978.xml#n78.130"/>
+                    </p>
+                </event>
+
+                <event xml:id="CHIWD">
+                    <p>
+                        <!-- SRS -->
+                        <name>International Women's Day demonstration at Convocation Hall, U of
+                            T</name>
+                        <date when="1978-03-11">March 11</date>
+                        <placeName corresp="places.xml#UOFT">University of Toronto</placeName>
+                        <seg corresp="1978.xml#n78.131"/>
+                    </p>
+                </event>
+
+                <event xml:id="BPR5">
+                    <p>
+                        <!-- SRS -->
+                        <name>March at Ontario Attorney General's office to protest Body Politic
+                            raid</name>
+                        <date when="1978-03-23">March 23</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#AHCDBP">Ad Hoc Coalition to Defend the
+                            Body Politic</orgName>
+                        <persName sameAs="people.xml#RMCM">Roy McMurty</persName>
+                        <seg corresp="1978.xml#n78.140"/>
+                    </p>
+                </event>
+
+                <event xml:id="CLCJR">
+                    <p>
+                        <!-- SRS -->
+                        <name>Christian Liberation Crusade Jubilee Rally</name>
+                        <date when="1978-04-23">April 23</date>
+                        <placeName corresp="places.xml#PCKC">Peacock Auditorium</placeName>
+                        <persName sameAs="people.xml#KCAM">Ken Campbell</persName>
+                        <seg corresp="1978.xml#n78.174"/>
+                    </p>
+                </event>
+
+                <event xml:id="ABRY3">
+                    <p>
+                        <!-- SRS -->
+                        <name>First gay demonstration in Edmonton, anti-Anita Bryant</name>
+                        <date when="1978-04-29">April 29</date>
+                        <placeName corresp="places.xml#EDM">Edmonton</placeName>
+                        <orgName corresp="organizations.xml#CAAB">CAAB</orgName>
+                        <orgName corresp="organizations.xml#CONC">Concern</orgName>
+                        <seg corresp="1978.xml#n78.180"/>
+                    </p>
+                </event>
+
+                <event xml:id="ABRY4">
+                    <p>
+                        <!-- SRS -->
+                        <name>Anti-Anita demonstration at Holy Rosary Cathedral</name>
+                        <date when="1978-04-29">April 29</date>
+                        <placeName corresp="places.xml#HRC">Holy Rosary Cathedral</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE (Vancouver)</orgName>
+                        <seg corresp="1978.xml#n78.181"/>
+                    </p>
+                </event>
+
+                <event xml:id="ABRY5">
+                    <p>
+                        <!-- SRS -->
+                        <name>Anti-Anita demonstration for her visit to Winnipeg Convention
+                            Center</name>
+                        <date when="1978-04-30">April 30</date>
+                        <placeName corresp="places.xml#WIN">Winnipeg</placeName>
+                        <orgName corresp="organizations.xml#CAAB">CAAB</orgName>
+                        <seg corresp="1978.xml#n78.183"/>
+                    </p>
+                </event>
+
+                <event xml:id="ADS">
+                    <p>
+                        <!-- SRS -->
+                        <name>Picket against A Different Story film</name>
+                        <date when="1978-05-22">May 22</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <title level="m">A Different Story</title>
+                        <seg corresp="1978.xml#n78.209"/>
+                    </p>
+                </event>
+
+                <event xml:id="MVS">
+                    <p>
+                        <!-- SRS -->
+                        <name>Demonstration at Master Variety Store to protest firing of Lyn
+                            MacDonald</name>
+                        <date from="1978-06-06" to="1978-06-07">June 6-7</date>
+                        <placeName corresp="places.xml#MVS">Master Variety Store</placeName>
+                        <persName sameAs="people.xml#LMAC">Lyn MacDonald</persName>
+                        <seg corresp="1978.xml#n78.228"/>
+                    </p>
+                </event>
+
+                <event xml:id="CSSMMM">
+                    <p>
+                        <!-- SRS -->
+                        <name>CSSMM meeting crashed by gays demanding end to discrimination</name>
+                        <date when="1978-06-07">June 7</date>
+                        <placeName corresp="places.xml#MON">Montréal</placeName>
+                        <orgName corresp="organizations.xml#CSSMM">Centre de Service Sociaux du
+                            Montréal Métropolitain</orgName>
+                        <seg corresp="1978.xml#n78.230"/>
+                    </p>
+                </event>
+
+                <event xml:id="VSQR">
+                    <p>
+                        <!-- SRS -->
+                        <name>Viger Square rally against discrimination and charges against
+                            Truxx</name>
+                        <date when="1978-06-17">June 17</date>
+                        <placeName corresp="places.xml#VSQ">Viger Square</placeName>
+                        <orgName corresp="organizations.xml#CAH17J">Coalition ad hoc du 17
+                            juin</orgName>
+                        <seg corresp="1978.xml#n78.235"/>
+                    </p>
+                </event>
+
+                <event xml:id="GFD">
+                    <p>
+                        <!-- SRS -->
+                        <name>1978 Gay Freedom Day celebration in San Francisco</name>
+                        <date when="1978-06-25">June 25</date>
+                        <placeName corresp="places.xml#SF">San Francisco, Calif.</placeName>
+                        <persName sameAs="people.xml#MFLO">Maurice Flood</persName>
+                        <persName sameAs="people.xml#TFAU">Therese Faubert</persName>
+                        <seg corresp="1978.xml#n78.238"/>
+                    </p>
+                </event>
+
+                <event xml:id="ABRY6">
+                    <p>
+                        <!-- SRS -->
+                        <name>Moose Jaw first gay demonstration, anti-Anita</name>
+                        <date when="1978-07-01">July 1</date>
+                        <placeName corresp="places.xml#MJAW">Moose Jaw, Sask.</placeName>
+                        <orgName corresp="organizations.xml#CAAB">Saskatchewan CAAB</orgName>
+                        <orgName corresp="organizations.xml#SGC">SGC</orgName>
+                        <orgName corresp="organizations.xml#MJGC">Moose Jaw Gay Community</orgName>
+                        <seg corresp="1978.xml#n78.251"/>
+                    </p>
+                </event>
+
+                <event xml:id="VPCM">
+                    <p>
+                        <!-- SRS -->
+                        <name>Vancouver pro-choice march</name>
+                        <date when="1978-07-28">July 28</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE (Vancouver)</orgName>
+                        <orgName corresp="organizations.xml#CCCA">Concerned Citizens for Choice on
+                            Abortion</orgName>
+                        <persName sameAs="people.xml#SSHI">Stephen Shirreffs</persName>
+                        <seg corresp="1978.xml#n78.259"/>
+                    </p>
+                </event>
+
+                <event xml:id="ABRY7">
+                    <p>
+                        <!-- SRS -->
+                        <name>Anti-Anita demonstration, protesting her appearance at Queensway
+                            Cathedral, Etobicoke</name>
+                        <date when="1978-09-10">September 10</date>
+                        <placeName corresp="places.xml#ETOB">Etobicoke, Ont.</placeName>
+                        <seg corresp="1978.xml#n78.296"/>
+                    </p>
+                </event>
+
+                <event xml:id="ABRY8">
+                    <p>
+                        <!-- SRS -->
+                        <name>Anti-Anita demonstration at London Gardens Coliseum</name>
+                        <date when="1978-09-10">September 10</date>
+                        <placeName corresp="places.xml#LGAR">London Gardens Coliseum</placeName>
+                        <orgName corresp="organizations.xml#CAABL">London CAAB</orgName>
+                        <seg corresp="1978.xml#n78.297"/>
+                    </p>
+                </event>
+
+                <event xml:id="GEP">
+                    <p>
+                        <!-- SRS -->
+                        <name>Greek Embassy picket in Ottawa</name>
+                        <date when="1978-09-29">September 29</date>
+                        <placeName corresp="places.xml#GREMB">Greek Embassy</placeName>
+                        <seg corresp="1978.xml#n78.306"/>
+                    </p>
+                </event>
+
+                <event xml:id="SOPL">
+                    <p>
+                        <!-- SRS -->
+                        <name>Rally to support Operation Liberty</name>
+                        <date when="1978-10-16">October 16</date>
+                        <placeName corresp="places.xml#EDM">Edmonton</placeName>
+                        <orgName corresp="organizations.xml#ELGRO">ELGRO</orgName>
+                        <orgName corresp="organizations.xml#OPL">Operation Liberty</orgName>
+                        <seg corresp="1978.xml#n78.340"/>
+                    </p>
+                </event>
+
+                <event xml:id="TRX1Y">
+                    <p>
+                        <!-- SRS -->
+                        <name>Picket of Montreal Municipal Courthouse in support of Dominion Square
+                            Tavern + 1 year anniversary of Truxx raid</name>
+                        <date when="1978-10-24">October 24</date>
+                        <placeName corresp="places.xml#MMC">Montreal municipal
+                            courthouse</placeName>
+                        <seg corresp="1978.xml#n78.341"/>
+                    </p>
+                </event>
+
+                <event xml:id="SCTH">
+                    <p>
+                        <!-- SRS -->
+                        <name>Halloween anti-gay gathering outside St. Charles Tavern</name>
+                        <date when="1978-10-31">October 31</date>
+                        <placeName corresp="places.xml#SCT">St. Charles Tavern</placeName>
+                        <seg corresp="1978.xml#n78.354"/>
+                    </p>
+                </event>
+
+                <event xml:id="ME">
+                    <p>
+                        <!-- SRS -->
+                        <name>Protest of film Midnight Express</name>
+                        <orgName corresp="organizations.xml#TCFA">Turkish-Canadian Friendship
+                            Association</orgName>
+                        <title level="m">Midnight Express</title>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <seg corresp="1978.xml#n78.359"/>
+                    </p>
+                </event>
+
+                <event xml:id="BW">
+                    <p>
+                        <!-- SRS -->
+                        <name>anti-Battered Wives (band) rally and march</name>
+                        <date when="1978-11-03">November 3</date>
+                        <placeName corresp="places.xml#OKEC">O’Keefe Centre</placeName>
+                        <orgName corresp="organizations.xml#WAVAW">WAVAW</orgName>
+                        <seg corresp="1978.xml#n78.361"/>
+                    </p>
+                </event>
+
+                <event xml:id="MCHJD">
+                    <p>
+                        <!-- SRS -->
+                        <name>Protest at Montreal City Hall against police harassment and mayor Jean
+                            Drapeau</name>
+                        <date when="1978-11-08">November 8</date>
+                        <placeName corresp="places.xml#MCH">Montréal City Hall</placeName>
+                        <orgName corresp="organizations.xml#CHAR">ADGQ</orgName>
+                        <seg corresp="1978.xml#n78.365"/>
+                    </p>
+                </event>
+
+                <event xml:id="BW2">
+                    <p>
+                        <!-- SRS -->
+                        <name>anti-Battered Wives (band) protest at Theatre St Denis. (police
+                            intervene and arrest/beat up many)</name>
+                        <date when="1978-11-08">November 8</date>
+                        <placeName corresp="places.xml#TSD">Theatre Saint-Denis</placeName>
+                        <orgName corresp="organizations.xml#MCFCV">Montréal Coalition des Femmes
+                            contre la Violence</orgName>
+                        <seg corresp="1978.xml#n78.366"/>
+                    </p>
+                </event>
+
+                <event xml:id="OPL1">
+                    <p>
+                        <!-- SRS -->
+                        <name>Large Operation Liberty demonstration (1000+ people) against
+                            repression in Canada in Montreal. Supporting demonstrations also held in
+                            other cities</name>
+                        <placeName corresp="places.xml#MON">Montréal</placeName>
+                        <placeName corresp="places.xml#HAL">Halifax</placeName>
+                        <placeName corresp="places.xml#REG">Regina</placeName>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#OPL">Opération Liberté/Operation
+                            Freedom</orgName>
+                        <seg corresp="1978.xml#n78.380"/>
+                    </p>
+                </event>
+
+                <event xml:id="RTS">
+                    <p>
+                        <!-- SRS -->
+                        <name>Rally to "reclaim the streets" in "Canada's Rape City" Edmonton</name>
+                        <placeName corresp="places.xml#EDM">Edmonton</placeName>
+                        <seg corresp="1978.xml#n78.381"/>
+                    </p>
+                </event>
+
+                <event xml:id="TCHB">
+                    <p>
+                        <!-- SRS -->
+                        <name>March to and rally at Toronto City Hall to protest Barracks
+                            raid</name>
+                        <date when="1978-12-16">December 16</date>
+                        <placeName corresp="places.xml#TCH">Toronto City Hall</placeName>
+                        <placeName corresp="places.xml#CC519">519 Church Street Community
+                            Centre</placeName>
+                        <persName sameAs="people.xml#DHEA">Dan Heap</persName>
+                        <persName sameAs="people.xml#TMCC">Tim McCaskell</persName>
+                        <persName sameAs="people.xml#BHAW">Brent Hawkes</persName>
+                        <seg corresp="1978.xml#n78.409"/>
+                    </p>
+                </event>
+
+                <event xml:id="MAYD">
+                    <p>
+                        <!-- SRS -->
+                        <name>Gay contingent in May Day Parade in Montreal</name>
+                        <date when="1978-05-01">May 1</date>
+                        <placeName corresp="places.xml#MON">Montréal</placeName>
+                        <orgName corresp="organizations.xml#CHAR">ADGQ</orgName>
+                        <seg corresp="1978.xml#n78.189"/>
+                    </p>
+                </event>
+
+                <event xml:id="GD">
+                    <p>
+                        <!-- SRS -->
+                        <name>Gaydays: In Celebration of Lesbians and Gay Men</name>
+                        <date from="1978-08-23" to="1978-08-27">August 23–27</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#STLM">St. Lawrence Market</placeName>
+                        <placeName corresp="places.xml#HP">Hanlan’s Point</placeName>
+                        <orgName corresp="organizations.xml#LENG">Liberated Energy</orgName>
+                        <seg corresp="1978.xml#n78.274"/>
+                    </p>
+                </event>
+
+                <event xml:id="RMO">
+                    <p>
+                        <!-- SRS -->
+                        <name>March against police discrimination in front of Attorney General Roy
+                            McMurtry's office</name>
+                        <date when="1979-11-17">November 17</date>
+                        <placeName corresp="places.xml#RMCMO">Roy McMurtry's office</placeName>
+                        <persName sameAs="people.xml#BHAW">Brent Hawkes</persName>
+                        <seg corresp="1979.xml#n79.356"/>
+                    </p>
+                </event>
+                
+                <event xml:id="OLMI">
+                    <p>
+                        <!-- SRS -->
+                        <name>"Mince-in" at the Ontario Legislature</name>
+                        <date when="1979-10-29">October 29</date>
+                        <placeName corresp="places.xml#OL">Ontario Legislature</placeName>
+                        <seg corresp="1979.xml#n79.330"/>
+                    </p>
+                </event>
+                
+                <event xml:id="PSMCD">
+                    <p>
+                        <!-- SRS -->
+                        <name>Picket of Peel St. McDonald's (who obtained an injunction against opening of a new gay disco L’Aéroport above their restaurant)</name>
+                        <date when="1979-10-27">October 27</date>
+                        <placeName corresp="places.xml#MON">Montréal</placeName><!-- SRS could use a more accurate place if we can track this down -->
+                        <seg corresp="1979.xml#n79.229"/>
+                    </p>
+                </event>
+                
+                <event xml:id="MWLGR">
+                    <p>
+                        <!-- SRS -->
+                        <name>March on Washington for Lesbian and
+                            Gay Rights</name>
+                        <date when="1979-10-14">October 14</date>
+                        <placeName corresp="places.xml#WAS">Washington, D.C.</placeName>
+                        <seg corresp="1979.xml#n79.310"/>
+                    </p>
+                </event>
+                
+                <event xml:id="RYHRTL">
+                    <p>
+                        <!-- SRS -->
+                        <name>March for abortion rights in front of Royal York Hotel (which was hosting a Right to Life convention)</name>
+                        <date when="1979-10-06">October 6</date>
+                        <placeName corresp="places.xml#RYH">Royal York Hotel</placeName>
+                        <seg corresp="1979.xml#n79.302"/>
+                    </p>
+                </event>
+                
+                <event xml:id="MET79">
+                    <p>
+                        <!-- SRS -->
+                        <name>Gay rights demonstration during Metamorphosis '79</name>
+                        <date when="1979-10-06">October 6</date>
+                        <placeName corresp="places.xml#SAS">Saskatoon</placeName>
+                        <seg corresp="1979.xml#n79.301"/>
+                    </p>
+                </event>
+                
+                <event xml:id="BTE">
+                    <p>
+                        <!-- SRS -->
+                        <name>Picket of Back to Eden health food store</name>
+                        <date when="1979-09-29">September 29</date>
+                        <placeName corresp="places.xml#BTE">Back to Eden health food store</placeName>
+                        <seg corresp="1979.xml#n79.272"/>
+                    </p>
+                </event>
+                
+                <event xml:id="AJKP">
+                    <p>
+                        <!-- SRS -->
+                        <name>Black community march protesting killing of Albert Johnson</name>
+                        <date notBefore="1979-08-26">After September 26 (date of killing)</date>
+                        <placeName corresp="places.xml#TOR"/>
+                        <seg corresp="1979.xml#n79.244"/>
+                    </p>
+                </event>
+                
+                <event xml:id="AJKS">
+                    <p>
+                        <!-- SRS -->
+                        <name>Police officer rally supporting officers who killed Albert Johnson</name>
+                        <date when="1979-09-30">September 30, 1979</date>
+                        <placeName corresp="places.xml#TOR"/>
+                        <seg corresp="1979.xml#n79.244"/>
+                    </p>
+                </event>
+                
+                <event xml:id="RSQR">
+                    <p>
+                        <!-- SRS -->
+                        <name>Large rally in Robson Square to protest police inaction concerning anti-gay violence</name>
+                        <date when="1979-08-13">August 13</date>
+                        <placeName corresp="places.xml#ROBSQ">Robson Square</placeName>
+                        <seg corresp="1979.xml#n79.229"/>
+                    </p>
+                </event>
+                
+                <event xml:id="ABRY9">
+                    <p>
+                        <!-- SRS -->
+                        <name>Anti-Anita Bryant demonstration protesting her visit to Memorial Stadium. First gay demonstration in Petersborough.</name>
+                        <date when="1978-04-28">April 28</date>
+                        <placeName corresp="places.xml#PET">Peterborough</placeName>
+                        <seg corresp="1978.xml#n78.179"/>
+                    </p>
+                </event>
+                <event xml:id="MET78">
+                    <p>
+                        <!-- CV -->
+                        <name>Metamorphosis gay cultural festival '78</name>
+                        <date from="1978-10-06" to="1978-10-09">October 6-9</date>
+                        <placeName corresp="places.xml#SAS">Saskatoon</placeName>
+                        <placeName corresp="places.xml#SCH">Saskatoon City Hall</placeName>
+                        <orgName corresp="organizations.xml#GCCS">GCCS</orgName>
+                        <persName sameAs="people.xml#P_FER">Ferron</persName>
+                        <persName sameAs="people.xml#P_BBI">Blackberri</persName>
+                        <persName sameAs="people.xml#MGOR">Michael Gordon</persName>
+                        <seg corresp="1978.xml#n78.334"/>
+                    </p>
+                </event>
+                <event xml:id="PTP1">
+                    <p>
+                        <!-- CV -->
+                        <name>Rally and march for PTP</name>
+                        <date when="1979-01-03">January 3</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#BPFPF">BPFPF</orgName>
+                        <orgName corresp="organizations.xml#GATE">GATE</orgName>
+                        <orgName corresp="organizations.xml#CLICH">Clichettes</orgName>
+                        <orgName corresp="organizations.xml#GI">General Idea</orgName>
+                        <orgName corresp="organizations.xml#PTP">Pink Triangle Press</orgName>
+                        <persName sameAs="people.xml#GHAN">Gerald Hannon</persName>
+                        <persName sameAs="people.xml#EJAC">Ed Jackson</persName>
+                        <persName sameAs="people.xml#KPOP">Ken Poppert</persName>
+                        <persName sameAs="people.xml#JSEW">John Sewell</persName>
+                        <persName sameAs="people.xml#GHIS">George Hislop</persName>
+                        <persName sameAs="people.xml#JKATE">Joanne Kates</persName>
+                        <persName sameAs="people.xml#GMON">Gordon Montador</persName>
+                        <persName sameAs="people.xml#DMAC">David Maclean</persName>
+                        <persName sameAs="people.xml#LSEG">Lorraine Segato</persName>
+                        <persName sameAs="people.xml#CBEA">Chris Bearchell</persName>   
+                        <seg corresp="1979.xml#n79.28"/>
+                    </p>
+                </event>
+                <event xml:id="ORPH">
+                    <p>
+                        <!-- CV -->
+                        <name>Orpheum Theater Protest against Rev. David Mainse</name>
+                        <date when="1979-01-11">January 11</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <placeName corresp="places.xml#ORPH">Orpheum Theater</placeName>
+                        <orgName corresp="organizations.xml#CAD">CAD</orgName>
+                        <persName sameAs="people.xml#DMAI">David Mainse</persName>
+                        <seg corresp="1979.xml#n79.31"/>
+                    </p>
+                </event>
+                <event xml:id="HST100">
+                    <p>
+                        <!-- CV -->
+                        <name>100 Huntley Street Protest</name>
+                        <date when="1979-01-12">January 12</date>
+                        <placeName corresp="places.xml#VIC">Victoria</placeName>
+                        <orgName corresp="organizations.xml#FLAG">FLAG</orgName>
+                        <orgName corresp="organizations.xml#HST">100 Huntley Street</orgName>
+                        <orgName corresp="organizations.xml#ABCR">Anita Bryant Crusade</orgName>
+                        <orgName corresp="organizations.xml#RENI">Renaissance International</orgName>
+                        <persName sameAs="people.xml#NGOLD">Nancy Goldsberry</persName>
+                        <seg corresp="1979.xml#n79.33"/>
+                    </p>
+                </event>
+                <event xml:id="GBEZP">
+                    <p>
+                        <!-- CV -->
+                        <name>Gail (Gayle) Bezaire Protest</name>
+                        <date when="1979-01-17">January 17</date>
+                        <date when="1979-04-23">April 23</date>
+                        <date when="1979-05-01">May 1</date>
+                        <placeName corresp="places.xml#WIND">Windsor</placeName>
+                        <placeName corresp="places.xml#ECC">Essex County Court</placeName>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#GPDF">Gay Parents' Defence Food</orgName>
+                        <orgName corresp="organizations.xml#GBDC">Gayle Bezaire Defence Comittee</orgName>
+                        <persName sameAs="people.xml#JMCM">Joseph McMahon</persName>
+                        <persName sameAs="people.xml#GBEZ">Gail (Gayle) Bezaire</persName>
+                        <persName sameAs="people.xml#DMAI">David Mainse</persName>
+                        <seg corresp="1979.xml#n79.36"/>
+                    </p>
+                </event>
+                <event xml:id="CLR">
+                    <p>
+                        <!-- CV -->
+                        <name>Christian Liberation Rally</name>
+                        <date when="1979-01-17">January 21</date>
+                        <placeName corresp="places.xml#OAK">Oakville</placeName>
+                        <placeName corresp="places.xml#FBC">Faith Baptist Church</placeName>
+                        <orgName corresp="organizations.xml#RENI">Renaissance International</orgName>
+                        <persName sameAs="people.xml#KCAM">Ken Campbell</persName> 
+                        <seg corresp="1979.xml#n79.38"/>
+                    </p>
+                </event>
+                <event xml:id="AGDQP">
+                    <p>
+                        <!-- CV -->
+                        <name>Anti-Gay Demonstration at Queen's Park</name>
+                        <date when="1979-03-07">March 7</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#QUEE">Queen's Park</placeName>
+                        <orgName corresp="organizations.xml#CCT">Concerned Citizens of Toronto</orgName>
+                        <orgName corresp="organizations.xml#CGA">CGA</orgName>
+                        <persName sameAs="people.xml#RELG">Robert Elgie</persName>
+                        <persName sameAs="people.xml#JFRA">James Fraser</persName>
+                        <seg corresp="1979.xml#n79.84"/>
+                    </p>
+                </event>
+                <event xml:id="IWDRM">
+                    <p>
+                        <!-- CV -->
+                        <name>Canada-Wide International Women's Day Rally and March</name>
+                        <date when="1979-03-10">March 10</date>
+                        <placeName corresp="places.xml#CAN">Canada</placeName>
+                        <placeName corresp="places.xml#HAL">Halifax</placeName>
+                        <placeName corresp="places.xml#MON">Montreal</placeName>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#EDM">Edmonton</placeName>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <seg corresp="1979.xml#n79.87"/>
+                    </p>
+                </event>
+                <event xml:id="RGPD">
+                <p>
+                    <!-- CV -->
+                    <name>Rally of gays and people with disabilities at Queen's Park</name>
+                    <date when="1979-03-07">March 7</date>
+                    <placeName corresp="places.xml#TOR">Toronto</placeName>
+                    <placeName corresp="places.xml#QUEE">Queen's Park</placeName>
+                    <orgName corresp="organizations.xml#CFLT">CLT</orgName>
+                    <orgName corresp="organizations.xml#OHRC">OHRC</orgName>
+                    <orgName corresp="organizations.xml#LIB">Liberals</orgName>
+                    <orgName corresp="organizations.xml#NDP">NDP</orgName>
+                    <orgName corresp="organizations.xml#OHRC">OHRC</orgName>
+                    <persName sameAs="people.xml#SSMITH">Stuart Smith</persName>
+                    <persName sameAs="people.xml#MCAS">Michael Cassidy</persName>
+                    <persName sameAs="people.xml#RELG">Robert Elgie</persName>
+                    <seg corresp="1979.xml#n79.116"/>
+                </p>
+                </event>
+                <event xml:id="B94">
+                    <p>
+                        <!-- CV -->
+                        <name>Bill 94 protest and demonstration</name>
+                        <date when="1979-05-05">May 5</date>
+                        <placeName corresp="places.xml#REG">Regina</placeName>
+                        <placeName corresp="places.xml#SLEG">Skatchewan Legislature</placeName>
+                        <orgName corresp="organizations.xml#SGC">SGC</orgName>
+                        <orgName corresp="organizations.xml#NDP">NDP</orgName>
+                        <persName sameAs="people.xml#RCOLLV">Collver</persName>
+                        <persName sameAs="people.xml#BALL">Bill Allen</persName>
+                        <seg corresp="1979.xml#n79.120"/>
+                    </p>
+                </event>
+                <event xml:id="WNR">
+                    <p>
+                        <!-- CV -->
+                        <name>White Night Riots</name>
+                        <date when="1979-05-21">May 21</date>
+                        <date when="1979-07-03">July 3, 1979</date>
+                        <placeName corresp="places.xml#SFCH">San Francisco City Hall</placeName>
+                        <placeName corresp="places.xml#CASTRO">Castro Street</placeName>
+                        <orgName corresp="organizations.xml#POASF">Police Officers' Association (San Francisco)</orgName>
+                        <persName sameAs="people.xml#DWHI">Dan White</persName>
+                        <persName sameAs="people.xml#HMIL">Harvey Milk</persName>
+                        <persName sameAs="people.xml#GMOSC">George Moscone</persName>
+                        <persName sameAs="people.xml#CGAIN">Charles Gain</persName>
+                        <persName sameAs="people.xml#DFEI">Diane Feinstein</persName>
+                        <seg corresp="1979.xml#n79.153"/>
+                    </p>
+                </event>
+                <event xml:id="FGS">
+                    <p>
+                        <!-- CV -->
+                        <name>Festival of Gay Spirits</name>
+                        <date from="1979-06-01" to="1979-06-03">June 1-3</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <orgName corresp="organizations.xml#GLU">Gay Liberation Union</orgName> 
+                        <seg corresp="1979.xml#n79.169"/>
+                    </p>
+                </event>
+                <event xml:id="GAI79">
+                    <p>
+                        <!-- CV -->
+                        <name>Gairilla</name>
+                        <date from="1979-06-16" to="1979-06-23">June 16-23</date>
+                        <placeName corresp="places.xml#RDUL">Rue Duluth</placeName>
+                        <placeName corresp="places.xml#PLF">Parc Lafontaine</placeName> 
+                        <seg corresp="1979.xml#n79.183"/>
+                    </p>
+                </event>
+                <event xml:id="DIV52">
+                    <p>
+                        <!-- CV -->
+                        <name>52 Division Police Headquarters Demonstration</name>
+                        <date when="1979-06-25">June 25</date>
+                        <date when="1979-06-28">June 28</date>
+                        <placeName corresp="places.xml#HQ52">52 Division Police Headquarters</placeName>
+                        <placeName corresp="places.xml#CC519">519 Church Street Community Centre</placeName>
+                        <orgName corresp="organizations.xml#RFM">ReforMetro</orgName>
+                        <orgName corresp="organizations.xml#D9DF">RTPC</orgName>
+                        <orgName corresp="organizations.xml#TPS">Toronto Police Service</orgName>
+                        <orgName corresp="organizations.xml#MCO">Metro Council</orgName>
+                        <persName sameAs="people.xml#BHAW">Brent Hawkes</persName>
+                        <persName sameAs="people.xml#HADA">Harold Adamson</persName>
+                        <seg corresp="1979.xml#n79.190"/>
+                    </p>
+                </event>
+                <event xml:id="C79">
+                    <p>
+                        <!-- CV -->
+                        <name>Celebration '79</name>
+                        <date from="1979-06-27" to="1979-07-02">June 27-July 2</date>
+                        <date when="1979-06-27">June 27</date>
+                        <placeName corresp="places.xml#OTT">52 Division Police Headquarters</placeName>
+                        <orgName corresp="organizations.xml#CNDH">CLGRC/CCDLG</orgName>
+                        <orgName corresp="organizations.xml#GO">GO</orgName>
+                        <orgName corresp="organizations.xml#CHRC">CHRC</orgName>
+                        <orgName corresp="organizations.xml#RENC">Renaissance Canada</orgName>
+                        <orgName corresp="organizations.xml#BPEA">Bill Prankard Evangelist Association</orgName>
+                        <persName sameAs="people.xml#MDEW">Marion Dewar</persName>
+                        <persName sameAs="people.xml#GFAI">Gordon Fairweather</persName>
+                        <persName sameAs="people.xml#KCAM">Ken Campbell</persName>
+                        <persName sameAs="people.xml#BPRA">Bill Prankard</persName>
+                        <seg corresp="1979.xml#n79.191"/>
+                    </p>
+                </event>
+                <event xml:id="GUWV79">
+                    <p>
+                        <!-- CV -->
+                        <name>Gay Unity Week Vancouver '79</name>
+                        <date from="1979-07-27" to="1979-08-06">July 27-August 6</date>
+                        <date when="1979-08-11">August 11</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <placeName corresp="places.xml#MISS">Mission</placeName>
+                        <placeName corresp="places.xml#WECC">West End Community Centre</placeName>
+                        <orgName corresp="organizations.xml#GATEV">GATE Vancouver</orgName> 
+                        <persName sameAs="people.xml#JVOL">Jack Volrich</persName>  
+                        <seg corresp="1979.xml#n79.213"/>
+                    </p>
+                </event>
+                <event xml:id="MPVAMG">
+                    <p>
+                        <!-- CV -->
+                        <name>March against Police Violence against Minority Groups</name>
+                        <date when="1979-10-14">October 14</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#NPS">Nathan Phillips Square</placeName>
+                        <placeName corresp="places.xml#OL">Ontario Legislature</placeName>
+                        <orgName corresp="organizations.xml#TPS">Metro Police</orgName> 
+                        <persName sameAs="people.xml#BHAW">Brent Hawkes</persName>
+                        <persName sameAs="people.xml#PGIV">Phil Givens</persName> 
+                        <persName sameAs="people.xml#PGODF">PGODF</persName> 
+                        <persName sameAs="people.xml#HADA">Harold Adamson</persName> 
+                        <seg corresp="1979.xml#n79.309"/>
+                    </p>
+                </event>
+                <event xml:id="LAWPP1">
+                    <p>
+                        <!-- CV -->
+                        <name>Lesbians at War Paint-and-Poster #1</name>
+                        <date when="1978-10-31">October 29</date>
+                        <placeName corresp="places.xml#VAN">Vancouver</placeName>
+                        <orgName corresp="organizations.xml#LAW">Lesbians at War</orgName> 
+                        <seg corresp="1978.xml#n78.353"/>
+                    </p>
+                </event>
+                <event xml:id="CCPCC">
+                    <p>
+                        <!-- CV -->
+                        <name>Censorship in Canada Picket at Canada Customs</name>
+                        <date from="1979-01-30" to="1979-01-31">January 30-31</date>
+                        <placeName corresp="places.xml#HAL">Halifax</placeName>
+                        <placeName corresp="places.xml#TCC">Turret Gay Community Centre</placeName>
+                        <placeName corresp="places.xml#ALTB">Alternate Bookstore</placeName>
+                        <placeName corresp="places.xml#DART">Dartmouth</placeName>
+                        <orgName corresp="organizations.xml#GAE">GAE</orgName> 
+                        <persName sameAs="people.xml#TBUR">Tom Burns</persName>
+                        <persName sameAs="people.xml#AWIL">Alex Wilson</persName> 
+                        <persName sameAs="people.xml#LMURP">Lynn Murphy</persName> 
+                        <seg corresp="1979.xml#n79.42"/>
+                    </p>
+                </event>
+                <event xml:id="FFFF">
+                    <p>
+                        <!-- CV -->
+                        <name>Festival of Faith, Freedom and the Family</name>
+                        <date when="1979-01-07">January 7</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#TCH">Toronto City Hall</placeName>
+                        <persName sameAs="people.xml#KCAM">Ken Campbell</persName>
+                        <persName sameAs="people.xml#DMAI">David Mainse</persName> 
+                        <persName sameAs="people.xml#JSEW">John Sewell</persName> 
+                        <seg corresp="1979.xml#n79.42"/>
+                    </p>
+                </event>
+
+            </listEvent>
+        </body>
+    </text>
+</TEI>
