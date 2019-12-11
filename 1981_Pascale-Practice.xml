@@ -27,7 +27,7 @@
         </respStmt>
         <respStmt>
           <resp>Encoded by</resp>
-          <persName sameAs="people.xml#">
+          <persName sameAs="people.xml#PDAN">
             <forename>Pascale</forename>
             <surname>Dangoisse</surname>
           </persName>
