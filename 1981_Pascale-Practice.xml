@@ -61,9 +61,7 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
-          <p> Montréal Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui, a
-            one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
-            lesbian life in Montréal, was released by Video Amazone. </p>
+          <p> <placeName corresp="places.xml#MON">Montréal</placeName><title level="m">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui</title>, a one-hour-and-forty-five-minute video made for lesbians only and surveying the state of lesbian life in Montréal, was released by Video Amazone. </p>
           <bibl>“Amazones d’hier, lesbiennes d’aujourd’hui,” Le Berdache, no. 25 (1981), p. 8</bibl>
           <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
 
