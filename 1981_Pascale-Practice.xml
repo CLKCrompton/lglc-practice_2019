@@ -63,12 +63,11 @@
         <event xml:id="n81.1">
           <p> <placeName corresp="places.xml#MON">Montréal</placeName><title level="m">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui</title>, a one-hour-and-forty-five-minute video made for lesbians only and surveying the state of lesbian life in Montréal, was released by Video Amazone. </p>
           <bibl>“<title level="m" >"Amazones d’hier, lesbiennes d’aujourd’hui,"</title> <title level="a" corresp="periodicals.xml#p175">Le Berdache</title>, no. 25 (1981),<seg corresp="#n81.1"> p. 8<seg></bibl>
-          <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
+          <bibl> <title level="m">“Amazons Then, Lesbians Now,”</title> <title level="j" corresp="periodicals.xml#p450">Lesbian/Lesbienne</title>, 1, no. 3 (1981): <seg corresp="#n81.1">4</seg>.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> Vancouver Scott Watson’s book of stories Platonic Love: Three Tales of Language and
-            Desire was published by New Star Books. </p>
+          <p> <placeName corresp="places.xml#VAN">Vancouver</placeName> <!-- pd:no id for Scott Watson --> <persName sameAs="">Scott Watson</persName>’s book of stories <title level="m">Platonic Love: Three Tales of Language and Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
           <bibl>
             <!-- pd:no id for Don Larventz -->
             <persName>Don Larventz</persName>, <title level="a">“The Fiction of Sexual
