@@ -27,14 +27,14 @@
         </respStmt>
         <respStmt>
           <resp>Encoded by</resp>
-          <persName sameAs="people.xml#">
+          <persName sameAs="people.xml#CLIPS">
             <forename>Candice</forename>
             <surname>Lipski</surname>
           </persName>
         </respStmt>
         <respStmt>
           <resp>Encoded by</resp>
-          <persName sameAs="people.xml#">
+          <persName sameAs="people.xml#RDESJ">
             <forename>Rebecca</forename>
             <surname>Desjarlais</surname>
           </persName>
@@ -69,7 +69,7 @@
       <listEvent n="1981">
         <event xml:id="n81.1">
           <p>
-            <date when="1981"/><placeName corresp="places.xml#MON">Montréal</placeName>
+            <date when="1981-01-01"/><placeName corresp="places.xml#MON">Montréal</placeName>
             <title level="m">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes
               d’aujourd’hui</title>, a one-hour-and-forty-five-minute video made for lesbians only
             and surveying the state of lesbian life in Montréal, was released by <orgName
