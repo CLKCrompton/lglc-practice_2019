@@ -41,10 +41,8 @@
             </event>
             <event xml:id="n">
                <p><date when="1977-11-04">November 4</date><placeName
-                     corresp="places.xml#">Toronto, ON</placeName> A public meeting is organized and
-                  held to talk about wages for housework and lesbians. It was held at St. Paul's
-                  centre (121 Avenue Rd.) Phamphlet gives a few reasons why lesbians want wages for
-                  housework and describe what the Wages due group does. </p>
+                     corresp="places.xml#">Toronto, ON</placeName> Wages Due Lesbians holds a public meeting St. Paul's
+                  centre (121 Avenue Rd.) </p>
                <bibl/>
                <!-- Add other bibls here, if any  -->
             </event>
@@ -52,10 +50,11 @@
                <p><date when="1981-12-01">December - January/February</date><placeName
                      corresp="places.xml#">Montreal, QC</placeName> La Vie en Rose publishes a
                   questionnaire on sexual harassment of woman in the workplace. The questionnaire
-                  covers a question about being a lesbian at work: </p>
+                  covers a question about being a lesbian at work: <!-- CC: is there content missing here? --></p>
                <bibl/>
                <!-- Add other bibls here, if any  -->
             </event>
+            <!-- CC: left off -->
             <event xml:id="n">
                <p><date when="1981-03-01">March/April/May</date><placeName
                      corresp="places.xml#">Montreal, QC</placeName> An advertisement for a
