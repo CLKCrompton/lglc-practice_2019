@@ -61,32 +61,35 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
-          <p> <title level="a">Montréal Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui</title>, a
-            one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
-            lesbian life in <placeName corresp="places.xml#MON">Montréal</placeName>, was released by Video Amazone. </p>
-          <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title> 
-            <title level="j" corresp="periodicals.xml#p175">Le Berdache</title>, 
-            no. 25 (1981), <seg corresp="#n81.1">p. 8</seg></bibl>
-          <bibl> <title level="a">“Amazons Then, Lesbians Now,”</title>
-            <title level="j" corresp="periodicals.xml#">Lesbian/Lesbienne</title>, 
-            1, no. 3 (1981): <seg corresp="#n81.1">4</seg>.</bibl>
+          <p>
+            <title level="m">Montréal Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui</title>, a one-hour-and-forty-five-minute video made for lesbians only and surveying the state of lesbian life in <placeName corresp="places.xml#MON">Montréal</placeName>, was released by Video Amazone. </p>
+          <bibl><title level="a">“Amazones d’hier, lesbiennes d’aujourd’hui,”</title>
+            <title level="j" corresp="periodicals.xml#p175">Le Berdache</title>, no. 25 (1981), <seg
+              corresp="#n81.1">p. 8</seg></bibl>
+          <bibl>
+            <title level="a">“Amazons Then, Lesbians Now,”</title>
+            <title level="j" corresp="periodicals.xml#">Lesbian/Lesbienne</title>, 1, no. 3 (1981):
+              <seg corresp="#n81.1">4</seg>.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> <placeName corresp="places.xml#VAN">Vancouver</placeName> Scott Watson’s book of 
-            stories <title level="a">Platonic Love: Three Tales of Language and
-            Desire</title> was published by <title level="j" corresp="periodicals.xml#">New Star Books</title>. </p>
-          <bibl><persName sameAs="people.xml#">Don Larventz</persName>, 
-            <title level="a">“The Fiction of Sexual Truth”</title> (review), 
-            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 78 (1981),
-            <seg corresp="#n81.14">p. 33</seg></bibl>
-          <bibl> <persName sameAs="people.xml#">Don Officer</persName>, 
-            <title level="a">“Beyond the Point” (review)</title>, <title level="j" 
-              corresp="periodicals.xml#">Books in Canada</title>, January 1982, <seg corresp="#n81.14">pp.15–16</seg></bibl>
-          <bibl> <persName sameAs="people.xml#">Gerry Oxford</persName>, <title level="a">“Platonic Love” (review)</title>, 
-            <title level="j">Quill Camp; Quire</title>, January 1982, pp.31–32</bibl>
-          <bibl> <persName sameAs="people.xml#">Simon Ruddell</persName>, <title level="a">“Street Life” (review)</title>, Canadian Literature, no. 95 (1982), pp.
-            143–44</bibl>
+          <p>
+            <placeName corresp="places.xml#VAN">Vancouver</placeName> Scott Watson’s book of stories
+              <title level="a">Platonic Love: Three Tales of Language and Desire</title> was
+            published by <title level="j" corresp="periodicals.xml#">New Star Books</title>. </p>
+          <bibl><persName sameAs="people.xml#">Don Larventz</persName>, <title level="a">“The
+              Fiction of Sexual Truth”</title> (review), <title level="j"
+              corresp="periodicals.xml#p10">Body Politic</title>, no. 78 (1981), <seg
+              corresp="#n81.14">p. 33</seg></bibl>
+          <bibl>
+            <persName sameAs="people.xml#">Don Officer</persName>, <title level="a">“Beyond the Point” (review)</title>, <title level="j" corresp="periodicals.xml#">Books in Canada</title>, January 1982, <seg corresp="#n81.14">pp.15–16</seg></bibl>
+          <bibl>
+            <persName sameAs="people.xml#">Gerry Oxford</persName>, <title level="a">“Platonic Love”
+              (review)</title>, <title level="j">Quill Camp; Quire</title>, January 1982,
+            pp.31–32</bibl>
+          <bibl>
+            <persName sameAs="people.xml#">Simon Ruddell</persName>, <title level="a">“Street Life”
+              (review)</title>, Canadian Literature, no. 95 (1982), pp. 143–44</bibl>
           <bibl> Ian Young, The Male Homosexual in Literature: A Bibliography, second ed. (Metuchen,
             N.J.: Scarecrow Press, 1982), entry 4013.</bibl>
 
@@ -107,7 +110,7 @@
             had used political pressure to swing the vote in favour of the anti-discrimination
             motion. After some vigorous debate, the issue was referred to a special meeting of the
             full board of education to be held <date when="1981-02-23">February 23, 1981</date>.
-            (See also <seg corresp="#n81.30">February 23, 1981</seg>).</p>
+            (See also <seg corresp="#n81.71">February 23, 1981</seg>).</p>
           <bibl><persName sameAs="">Rick Brennan</persName>, <title level="a">“No Homosexual Lesson
               for Her Kids,”</title>
             <title level="j" corresp="periodicals.xml#p112">Toronto Star</title>, four star ed., 17
@@ -236,43 +239,54 @@
             formation of a national lesbian organization. There were plenary sessions, workshops, an
             art display (“Woman to Woman,” at the Women in Focus Gallery), and a dance featuring the
             lesbian rock band Mama Quilla II (with <persName sameAs="people.xml#LSEG">Lorraine
-            Segato</persName>). More than 200 women marched in Canada’s first lesbian pride march,
-            from <placeName corresp="places.xml#ROBSQ">Robson Square</placeName> through downtown <placeName corresp="places.xml#VAN"
-              >Vancouver</placeName> to the <placeName corresp="places.xml#WECC">WECC</placeName>. 
-            A final report, <title level="a">Lesbian Power: Organizing for the 80s</title>, was published after the conference. 
-          </p>
-          <bibl><title level="a">“1981 Bi-national Lesbian Vandykescouver, B.C., Conference!”</title> 
-            <title level="j" corresp="periodicals.xml">Lavender Sheets (LOOT)</title>, 
-            Summer 1980, <seg corresp="n81.190">p.(3)</seg></bibl>
+              Segato</persName>). More than 200 women marched in Canada’s first lesbian pride march,
+            from <placeName corresp="places.xml#ROBSQ">Robson Square</placeName> through downtown
+              <placeName corresp="places.xml#VAN">Vancouver</placeName> to the <placeName
+              corresp="places.xml#WECC">WECC</placeName>. A final report, <title level="a">Lesbian
+              Power: Organizing for the 80s</title>, was published after the conference. </p>
+          <bibl><title level="a">“1981 Bi-national Lesbian Vandykescouver, B.C.,
+              Conference!”</title>
+            <title level="j" corresp="periodicals.xml">Lavender Sheets (LOOT)</title>, Summer 1980,
+              <seg corresp="n81.190">p.(3)</seg></bibl>
           <bibl>
             <title level="a">“1981 Lesbian Conference,”</title>
-            <title level="j" corresp="periodicals.xml#">Gaze</title>, June 1981, <seg corresp="#n81.190">p. (4)</seg></bibl>
-          <bibl> 1981 Lesbian Conference Committee, <title level="a">“1981 Lesbian Conference,”</title>
-            <title level="j" corresp="periodicals.xml#">VGCC News</title>, 2, no. 3 (March 1981):16</bibl>
+            <title level="j" corresp="periodicals.xml#">Gaze</title>, June 1981, <seg
+              corresp="#n81.190">p. (4)</seg></bibl>
+          <bibl> 1981 Lesbian Conference Committee, <title level="a">“1981 Lesbian
+              Conference,”</title>
+            <title level="j" corresp="periodicals.xml#">VGCC News</title>, 2, no. 3 (March
+            1981):16</bibl>
           <bibl>
-            <persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Lesbian Pride March 
-            Is a First for Canada,”</title> <title level="j" corresp="periodicals.xml#p10">Body Politic</title>,
-            no. 74 (1981), <seg corresp="#n81.190">p.10</seg></bibl>
+            <persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, <title level="a">“Lesbian
+              Pride March Is a First for Canada,”</title>
+            <title level="j" corresp="periodicals.xml#p10">Body Politic</title>, no. 74 (1981), <seg
+              corresp="#n81.190">p.10</seg></bibl>
           <bibl> R.C., <title level="a">“Vancouver Lesbian Conference,”</title>
             <title level="j" corresp="periodicals.xml#p465">Making Waves (Halifax),</title> no. 2
             (1981), <seg corresp="#n81.190">p.7</seg></bibl>
           <bibl>
-            <persName sameAs="people.xml">Diane Fisher</persName>, 
-            <title level="a">“1981 Lesbian Conference: Proposals from Workshops at the Conference,”</title> 
-            <title level="j" corresp="periodicals.xml#">Gaze</title>, September 1981, <seg corresp="#n81.190">pp. (5–7) 
-            </seg> and <title level="j" corresp="periodicals.xml#">Gaze</title>, November 1981, <seg corresp="#n81.190">pp. (5–7)</seg></bibl>
+            <persName sameAs="people.xml">Diane Fisher</persName>, <title level="a">“1981 Lesbian
+              Conference: Proposals from Workshops at the Conference,”</title>
+            <title level="j" corresp="periodicals.xml#">Gaze</title>, September 1981, <seg
+              corresp="#n81.190">pp. (5–7) </seg> and <title level="j" corresp="periodicals.xml#"
+              >Gaze</title>, November 1981, <seg corresp="#n81.190">pp. (5–7)</seg></bibl>
           <bibl>
             <persName sameAs="people.xml#MFIT">Maureen FitzGerald</persName> and <persName
               sameAs="people.xml#">Daphne Morrison</persName>, <title level="a">“Lesbian Conference:
               Agony and Audacity,”</title>
             <title level="j" corresp="periodicals.xml#p226">Broadside</title>, 2, no. 9 (July 1981):
             4</bibl>
-          <bibl> <persName sameAs="people.xml#MFUL">Margaret Fulford</persName>, ed., 
-            <title level="a">The Canadian Women’s Movement, 1960–1990: A Guide to
-            Archival Resources/Le mouvement canadien des femmes, 1960–1990: guide de ressources archivistiques</title>
-            <title level="j" corresp="periodicals.xml#">(Toronto: Canadian Women’s Movement Archives/ECW Press, 1992)</title>, entry 67</bibl>
-          <bibl> <persName sameAs="people.xml#DKID">Dorothy Kidd</persName>, <title level="a">“1981 Lesbian Conference,”</title>
-            <title level="j" corresp="periodicals.xml">VGCC News</title>, 2, no. 6 (June 1981): <seg corresp="#n81.190">14</seg></bibl>
+          <bibl>
+            <persName sameAs="people.xml#MFUL">Margaret Fulford</persName>, ed., <title level="a"
+              >The Canadian Women’s Movement, 1960–1990: A Guide to Archival Resources/Le mouvement
+              canadien des femmes, 1960–1990: guide de ressources archivistiques</title>
+            <title level="j" corresp="periodicals.xml#">(Toronto: Canadian Women’s Movement
+              Archives/ECW Press, 1992)</title>, entry 67</bibl>
+          <bibl>
+            <persName sameAs="people.xml#DKID">Dorothy Kidd</persName>, <title level="a">“1981
+              Lesbian Conference,”</title>
+            <title level="j" corresp="periodicals.xml">VGCC News</title>, 2, no. 6 (June 1981): <seg
+              corresp="#n81.190">14</seg></bibl>
 
 
         </event>
