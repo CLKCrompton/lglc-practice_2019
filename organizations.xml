@@ -59,7 +59,8 @@
                 </org>
                 <org xml:id="ACSW">
                     <!--  http://www.thecanadianencyclopedia.ca/en/article/canadian-advisory-council-on-the-status-of-women/ -->
-                    <orgName from="1973" to="1995-04-01">Advisory Council on the Status of Women</orgName>
+                    <orgName from="1973" to="1995-04-01">Advisory Council on the Status of
+                        Women</orgName>
                     <!-- <date from="1973" to="1995-04-01"/> -->
                     <placeName corresp="places.xml#CAN"/>
                 </org>
@@ -262,7 +263,8 @@
                 </org>
                 <org xml:id="BCHRC">
                     <!--  RS http://en.wikipedia.org/wiki/Human_rights_in_Canada#History -->
-                    <orgName from="1969" to="2003">British Columbia Human Rights Commission</orgName>
+                    <orgName from="1969" to="2003">British Columbia Human Rights
+                        Commission</orgName>
                     <!-- <date from="1969" to="2003"/> -->
                     <placeName corresp="places.xml#BC"/>
                 </org>
@@ -6149,16 +6151,16 @@
                 </org>
                 <org xml:id="NBHRC">
                     <!--  CM http://www.gnb.ca/hrc-cdp/index-e.asp -->
-                    <orgName notAfter="1980">New Brunswick Human Rights Commission</orgName>             
+                    <orgName notAfter="1980">New Brunswick Human Rights Commission</orgName>
                     <placeName corresp="places.xml#NB"/>
                 </org>
                 <org xml:id="UBCFC">
                     <!--  CM https://www.library.ubc.ca/archives/facclub/welcome.html -->
-                    <orgName from="1959">UBC Faculty Club</orgName>             
+                    <orgName from="1959">UBC Faculty Club</orgName>
                     <placeName corresp="places.xml#UBC"/>
                 </org>
-                
-              
+
+
 
 
                 <org type="ignore" xml:id="BAPTIST">

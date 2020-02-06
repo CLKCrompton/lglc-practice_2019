@@ -228,12 +228,14 @@
               Spurn, Back Homosexuals</title>,” <title level="j" corresp="periodicals.xmlp112"
               >Toronto Star</title>, four star ed., 24 February 1981, <seg corresp="#n81.72">pp. A1,
               A7</seg>.</bibl>
-<!-- This is a test for Git -->
+          <!-- This is a test for Git -->
         </event>
         <event xml:id="n81.128">
-          <p> Spring <placeName corresp="places.xml#HAL">Halifax</placeName> The first issue of Making Waves: An Atlantic Quarterly for Lesbians and
-            Gay Men was published. Robin Metcalfe edited the magazine. </p>
-          <bibl>Arn Gabel, “<title level="a">Make Way for Making Waves</title>,” Body Politic, no. 70 (1981), p. 12</bibl>
+          <p> Spring <placeName corresp="places.xml#HAL">Halifax</placeName> The first issue of
+            Making Waves: An Atlantic Quarterly for Lesbians and Gay Men was published. Robin
+            Metcalfe edited the magazine. </p>
+          <bibl>Arn Gabel, “<title level="a">Make Way for Making Waves</title>,” Body Politic, no.
+            70 (1981), p. 12</bibl>
           <bibl> Robin Metcalfe, “Making Waves in Atlantic Canada,” Body Politic, no. 74 (1981), p.
             17</bibl>
           <bibl> “New: Making Waves,” Fredericton FLAGMAG, no. 4 (1981), p. 7.</bibl>
@@ -269,10 +271,11 @@
             Conference,” Gaze, September 1981, pp. (5–7) and Gaze, November 1981, pp. (5–7)</bibl>
           <bibl> Maureen FitzGerald and Daphne Morrison, “Lesbian Conference: Agony and Audacity,”
             Broadside, 2, no. 9 (July 1981): 4</bibl>
-          <bibl> <persName sameAs="people.xml#MFUL" type="editor">Margaret Fulford</persName>, ed., The Canadian Women’s Movement, 1960–1990: A Guide to
-            Archival Resources/Le mouvement canadien des femmes, 1960–1990: guide de ressources
-            archivistiques (Toronto: Canadian Women’s Movement Archives/ECW Press, 1992), entry
-            67</bibl>
+          <bibl>
+            <persName sameAs="people.xml#MFUL" type="editor">Margaret Fulford</persName>, ed., The
+            Canadian Women’s Movement, 1960–1990: A Guide to Archival Resources/Le mouvement
+            canadien des femmes, 1960–1990: guide de ressources archivistiques (Toronto: Canadian
+            Women’s Movement Archives/ECW Press, 1992), entry 67</bibl>
           <bibl> Dorothy Kidd, “1981 Lesbian Conference,” VGCC News, 2, no. 6 (June 1981): 14</bibl>
 
 
