@@ -65,7 +65,7 @@
           <p>
             <date when="1981"/>
             <placeName corresp="places.xml#MON">Montréal</placeName>
-             <title level="m">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes
+            <title level="m">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes
               d’aujourd’hui</title>, a one-hour-and-forty-five-minute video made for lesbians only
             and surveying the state of lesbian life in Montréal, was released by
               <!-- CV need to make an org for this --><orgName>Video Amazone</orgName>. </p>
@@ -83,7 +83,7 @@
           <p>
             <date when="1981"/>
             <placeName corresp="places.xml#VAN">Vancouver</placeName>
-             <persName sameAs="people.xml#SWAT">Scott Watson</persName>’s book of stories <title
+            <persName sameAs="people.xml#SWAT">Scott Watson</persName>’s book of stories <title
               level="m">Platonic Love: Three Tales of Language and Desire</title> was published by
               <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
           <bibl><!-- Laverntz needs a unique ID --><persName sameAs="">Don Larventz</persName>,
@@ -112,7 +112,7 @@
         </event>
         <event xml:id="n81.30">
           <p>
-            <date when="1981-01-26">January 26</date> 
+            <date when="1981-01-26">January 26</date>
             <placeName corresp="places.xml#TOR">Toronto</placeName>
             <!-- Lake needs a unique ID --><persName>Lynne Lake</persName>, the mother of two
             schoolchildren, reopened debate on sexual orientation bias at the <orgName
@@ -151,7 +151,7 @@
         </event>
         <event xml:id="n81.35">
           <p>
-            <date from="1981-01" to="1981-02">January–February</date> 
+            <date from="1981-01" to="1981-02">January–February</date>
             <placeName corresp="places.xml#OTT">Ottawa</placeName> The
               <!-- org needs to be added --><orgName>Ottawa Children’s Aid Society</orgName> (CAS)
             confirmed that it would consider placing children with homosexual foster parents, but
@@ -168,7 +168,7 @@
         </event>
         <event xml:id="n81.71">
           <p>
-            <date when="1981-02-23">February 23</date> 
+            <date when="1981-02-23">February 23</date>
             <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings
             on <title level="m">Bill 209</title>, an <title level="m">Act to Amend the Ontario Human
               Rights Code</title>, were slated to begin before the
@@ -182,7 +182,7 @@
         </event>
         <event xml:id="n81.72">
           <p>
-            <date when="1981-02-23">February 23</date>  
+            <date when="1981-02-23">February 23</date>
             <placeName corresp="places.xml#TOR">Toronto</placeName> The <orgName
               corresp="organizations.xml#TBE">Toronto Board of Education</orgName> overturned two
             resolutions to ban discrimination against gays it had instituted in <date when="1980-09"
@@ -234,7 +234,7 @@
         </event>
         <event xml:id="n81.128">
           <p>
-            <date from="1981-03" to="1981-05">Spring</date>  
+            <date from="1981-03" to="1981-05">Spring</date>
             <placeName corresp="places.xml#HAL">Halifax</placeName> The first issue of <title
               level="j" corresp="periodicals.xml#p465">Making Waves: An Atlantic Quarterly for
               Lesbians and Gay Men</title> was published. <persName sameAs="people.xml#RMET">Robin
@@ -256,7 +256,7 @@
         </event>
         <event xml:id="n81.190">
           <p>
-            <date from="1981-05-16" to="1981-05-18">May 16–18</date>  
+            <date from="1981-05-16" to="1981-05-18">May 16–18</date>
             <placeName corresp="places.xml#VAN">Vancouver</placeName> More than 500 women
             participated in the fifth Bi-national Lesbian Conference, held at
               <!-- needs to be added to places --><placeName corresp="places.xml#">Langara
@@ -324,7 +324,7 @@
         </event>
         <event xml:id="n81.223">
           <p>
-            <date when="1981-06-05">June 5</date> 
+            <date when="1981-06-05">June 5</date>
             <!-- needs to be added to places --><placeName corresp="places.xml#"
             >Atlanta</placeName>, Ga. The <!-- needs to be added to orgs --><orgName>Centers for
               Disease Control</orgName> (CDC) reported that five gay men in <placeName
@@ -345,7 +345,7 @@
         </event>
         <event xml:id="n81.273">
           <p>
-            <date when="1981-07-03">July 3</date> 
+            <date when="1981-07-03">July 3</date>
             <placeName corresp="places.xml#NEW">New York</placeName>, N.Y. The <title level="j"
               corresp="periodicals.xml#p147">New York Times</title> published an article by
               <!-- needs a unique ID --><persName>Lawrence K. Altman</persName> entitled <title

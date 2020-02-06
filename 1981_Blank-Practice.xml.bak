@@ -1,0 +1,223 @@
+
+<?xml-model href="schemas/lglc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schemas/lglc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m">Lesbian and Gay Liberation in Canada</title>
+        <editor>
+          <persName sameAs="people.xml#MSCH">
+            <forename>Michelle</forename>
+            <surname>Schwartz</surname>
+          </persName>
+        </editor>
+        <editor>
+          <persName sameAs="people.xml#CCRO">
+            <forename>Constance</forename>
+            <surname>Crompton</surname>
+          </persName>
+        </editor>
+        <respStmt>
+          <resp>Prepared by</resp>
+          <persName sameAs="people.xml#">
+            <forename>Caitlin</forename>
+            <surname>Voth</surname>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <persName sameAs="people.xml#">
+            <forename><!-- your first name --></forename>
+            <surname><!-- your last name --></surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title level="m">Lesbian and Gay Liberation In Canada: A Selected Annotated Chronology,
+              1976-1981</title>
+            <author>
+              <persName sameAs="people.xml#DMCL">
+                <forename>McLeod</forename>
+                <surname>Donald</surname>
+              </persName>
+            </author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>EWC Press/ Homewood Books</publisher>
+            <pubPlace>Toronto</pubPlace>
+            <date>1996</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listEvent n="1981">
+        <event xml:id="n81.1">
+          <p> Montréal Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui, a
+            one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
+            lesbian life in Montréal, was released by Video Amazone. </p>
+          <bibl>“Amazones d’hier, lesbiennes d’aujourd’hui,” Le Berdache, no. 25 (1981), p. 8</bibl>
+          <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
+
+        </event>
+        <event xml:id="n81.14">
+          <p> Vancouver Scott Watson’s book of stories Platonic Love: Three Tales of Language and
+            Desire was published by New Star Books. </p>
+          <bibl>Don Larventz, “The Fiction of Sexual Truth” (review), Body Politic, no. 78 (1981),
+            p. 33</bibl>
+          <bibl> Don Officer, “Beyond the Point” (review), Books in Canada, January 1982, pp.
+            15–16</bibl>
+          <bibl> Gerry Oxford, “Platonic Love” (review), Quill &amp; Quire, January 1982, pp.
+            31–32</bibl>
+          <bibl> Simon Ruddell, “Street Life” (review), Canadian Literature, no. 95 (1982), pp.
+            143–44</bibl>
+          <bibl> Ian Young, The Male Homosexual in Literature: A Bibliography, second ed. (Metuchen,
+            N.J.: Scarecrow Press, 1982), entry 4013.</bibl>
+
+        </event>
+        <event xml:id="n81.30">
+          <p> January 26 Toronto Lynne Lake, the mother of two schoolchildren, reopened debate on
+            sexual orientation bias at the Toronto Board of Education when she made an emotional
+            plea to the schools programs committee. Lake demanded that the trustees rescind a motion
+            passed September 18, 1980, which prohibited “bias on the basis of sex or sexual
+            orientation,” and which specifically permitted “discussion of homosexuality” in schools.
+            Lake also claimed that the NDP had been “exploiting the (gay) issue” and that gay
+            activist John Argue, the chairman of the Metro Toronto NDP, had used political pressure
+            to swing the vote in favour of the anti-discrimination motion. After some vigorous
+            debate, the issue was referred to a special meeting of the full board of education to be
+            held February 23, 1981. (See also February 23, 1981.) </p>
+          <bibl>Rick Brennan, “No Homosexual Lesson for Her Kids,” Toronto Star, four star ed., 17
+            February 1981, p. C18</bibl>
+          <bibl> Virginia Corner, “Homosexual Issue Revived by Mom’s Ire,” Toronto Star, four star
+            ed., 27 January 1981, p. A3</bibl>
+          <bibl> Bruce A. McLeod, “Mom Battles Board Over Stand on Gays,” Toronto Sun, 17 February
+            1981, p. 18</bibl>
+          <bibl> Roger Spalding, “Mother’s Plea to School Board Reopens Debate on Ban on Bias,” Body
+            Politic, no. 71 (1981), p. 13.</bibl>
+
+        </event>
+        <event xml:id="n81.35">
+          <p> January–February Ottawa The Ottawa Children’s Aid Society (CAS) confirmed that it
+          <!-- I'm the greatest -->  would consider placing children with homosexual foster parents, but only as a last
+            resort. Preference was to be given to placing children in a “normalized setting,” with
+            heterosexual parents. Roger Galipeau, president of GO, called the policy discriminatory
+            and asked CAS to reconsider its position. </p>
+          <bibl>David Garmaise, “Gay Foster Parents a Last Resort: CAS,” Body Politic, no. 71
+            (1981), p. 14.</bibl>
+          
+        </event>
+          <event xml:id="n81.71">
+            <p> February 23 Toronto Three weeks of public hearings on Bill 209, an Act to Amend the
+              Ontario Human Rights Code, were slated to begin before the Social Development Committee
+              of the Ontario Legislature. </p>
+            <bibl>Chris Bearchell, “Strange Bedfellows?” Body Politic, no. 70 (1981), pp.
+              10–11.</bibl>
+            
+          </event>
+          <event xml:id="n81.72">
+            <p> February 23 Toronto The Toronto Board of Education overturned two resolutions to ban
+              discrimination against gays it had instituted in September 1980, by a vote of fourteen
+              to twelve, and replaced them with more conservative ones. Thirty-eight speakers
+              addressed the full board meeting, which lasted more than seven hours. The trustees voted
+              twenty-two to four to outlaw discrimination against gays in the board’s employment
+              practices only, and also agreed to allow discussion of homosexuality in schools but only
+              under strict guidelines, “when conducted by teachers and appropriate board staff as (the
+              topic) arises out of curriculum.” </p>
+            <bibl>Merylie Houston, “A Parent Speaks Out: The Gay Issue at the Board: The Latest
+              Round,” Mudpie (Toronto), 2, no. 3 (March 1981): 2</bibl>
+            <bibl> “Pros and Cons Clash over Gays in Classroom: Education Board Debate,” Toronto Sun,
+              24 February 1981, p. 31</bibl>
+            <bibl> Roger Spalding, “Toronto Board Limits Gay Rights Policy,” Body Politic, no. 72
+              (1981), p. 14</bibl>
+            <bibl> Allan Sparrow, “Sexual Orientation: 2 Battles Won. Board of Education Re-affirms
+              Stand Opposing Discrimination on the Basis of Sexual Orientation,” Ward 6 News
+              (Toronto), March 1981, p. 5</bibl>
+            <bibl> “Toronto Enrolment Drop Predicted over Homosexuals,” Toronto Star, four star ed.,
+              25 February 1981, p. A5</bibl>
+            <bibl> Julia Turner, “Board Hears All Views on Homosexual Issue,” Globe and Mail, metro
+              ed., 24 February 1981, p. 19</bibl>
+            <bibl> Julia Turner, “Gay Rights Are Upheld by Board,” Globe and Mail, metro ed., 25
+              February 1981, p. 5</bibl>
+            <bibl> David Vienneau, “Trustees Spurn, Back Homosexuals,” Toronto Star, four star ed., 24
+              February 1981, pp. A1, A7.</bibl>
+
+        </event>
+        <event xml:id="n81.128">
+          <p> Spring Halifax The first issue of Making Waves: An Atlantic Quarterly for Lesbians and
+            Gay Men was published. Robin Metcalfe edited the magazine. </p>
+          <bibl>Arn Gabel, “Make Way for Making Waves,” Body Politic, no. 70 (1981), p. 12</bibl>
+          <bibl> Robin Metcalfe, “Making Waves in Atlantic Canada,” Body Politic, no. 74 (1981), p.
+            17</bibl>
+          <bibl> “New: Making Waves,” Fredericton FLAGMAG, no. 4 (1981), p. 7.</bibl>
+
+
+        </event>
+        <event xml:id="n81.190">
+          <p> May 16–18 Vancouver More than 500 women participated in the fifth Bi-national Lesbian
+            Conference, held at Langara College. The event drew women from across Canada to discuss
+            priorities such as childcare, fighting the Right, and the formation of a national
+            lesbian organization. There were plenary sessions, workshops, an art display (“Woman to
+            Woman,” at the Women in Focus Gallery), and a dance featuring the lesbian rock band Mama
+            Quilla II (with Lorraine Segato). More than 200 women marched in Canada’s first lesbian
+            pride march, from Robson Square through downtown Vancouver to the WECC. A final report,
+            Lesbian Power: Organizing for the 80s, was published after the conference. </p>
+          <bibl>“1981 Bi-national Lesbian Vandykescouver, B.C., Conference!” Lavender Sheets (LOOT),
+            Summer 1980, p. (3)</bibl>
+          <bibl> “1981 Lesbian Conference,” Gaze, June 1981, p. (4)</bibl>
+          <bibl> 1981 Lesbian Conference Committee, “1981 Lesbian Conference,” VGCC News, 2, no. 3
+            (March 1981): 16</bibl>
+          <bibl> Chris Bearchell, “Lesbian Pride March Is a First for Canada,” Body Politic, no. 74
+            (1981), p. 10</bibl>
+          <bibl> R.C., “Vancouver Lesbian Conference,” Making Waves (Halifax), no. 2 (1981), p.
+            7</bibl>
+          <bibl> Diane Fisher, “1981 Lesbian Conference: Proposals from Workshops at the
+            Conference,” Gaze, September 1981, pp. (5–7) and Gaze, November 1981, pp. (5–7)</bibl>
+          <bibl> Maureen FitzGerald and Daphne Morrison, “Lesbian Conference: Agony and Audacity,”
+            Broadside, 2, no. 9 (July 1981): 4</bibl>
+          <bibl> Margaret Fulford, ed., The Canadian Women’s Movement, 1960–1990: A Guide to
+            Archival Resources/Le mouvement canadien des femmes, 1960–1990: guide de ressources
+            archivistiques (Toronto: Canadian Women’s Movement Archives/ECW Press, 1992), entry
+            67</bibl>
+          <bibl> Dorothy Kidd, “1981 Lesbian Conference,” VGCC News, 2, no. 6 (June 1981): 14</bibl>
+
+
+        </event>
+        <event xml:id="n81.223">
+          <p> June 5 Atlanta, Ga. The Centers for Disease Control (CDC) reported that five gay men
+            in Los Angeles had been diagnosed with pneumocystis pneumonia, which was rare and
+            frequently fatal. This was the first official report from the CDC concerning the health
+            crisis that would later become known as the AIDS pandemic. (See also July 3, 1981.) </p>
+          <bibl>Bill Lewis and Randy Coates, “Moral Lessons</bibl>
+          <bibl> Fatal Cancer,” Body Politic, no. 77 (1981), p. 43</bibl>
+          <bibl> Jacques Pepin, The Origins of AIDS (Cambridge: Cambridge University Press, 2011),
+            293 pp.</bibl>
+
+        </event>
+        <event xml:id="n81.273">
+          <p> July 3 New York, N.Y. The New York Times published an article by Lawrence K. Altman
+            entitled “Rare Cancer Seen in 41 Homosexuals,” which was subsequently distributed
+            internationally by the New York Times News Service. This was the first major mainstream
+            newspaper article to discuss the health crisis that would eventually become known as the
+            AIDS pandemic. An unnamed Body Politic reporter (likely Randy Coates and/or Bill Lewis)
+            dismissed the report as being biased and riddled with errors. </p>
+          <bibl>Lawrence K. Altman, “Rare Cancer Seen in 41 Homosexuals,” New York Times, late city
+            ed., 3 July 1981, p. A20</bibl>
+          <bibl> Alain Emmanuel Dreuilhe, “Le cancer gai” (medical column), Le Berdache, no. 24
+            (1981), p. 23</bibl>
+         
+          
+        </event>
+
+
+      </listEvent>
+    </body>
+  </text>
+</TEI>

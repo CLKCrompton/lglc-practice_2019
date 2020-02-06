@@ -1814,7 +1814,7 @@
                         <seg corresp="1979.xml#n79.356"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="OLMI">
                     <p>
                         <!-- SRS -->
@@ -1824,38 +1824,39 @@
                         <seg corresp="1979.xml#n79.330"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="PSMCD">
                     <p>
                         <!-- SRS -->
-                        <name>Picket of Peel St. McDonald's (who obtained an injunction against opening of a new gay disco L’Aéroport above their restaurant)</name>
+                        <name>Picket of Peel St. McDonald's (who obtained an injunction against
+                            opening of a new gay disco L’Aéroport above their restaurant)</name>
                         <date when="1979-10-27">October 27</date>
                         <placeName corresp="places.xml#MON">Montréal</placeName><!-- SRS could use a more accurate place if we can track this down -->
                         <seg corresp="1979.xml#n79.229"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="MWLGR">
                     <p>
                         <!-- SRS -->
-                        <name>March on Washington for Lesbian and
-                            Gay Rights</name>
+                        <name>March on Washington for Lesbian and Gay Rights</name>
                         <date when="1979-10-14">October 14</date>
                         <placeName corresp="places.xml#WAS">Washington, D.C.</placeName>
                         <seg corresp="1979.xml#n79.310"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="RYHRTL">
                     <p>
                         <!-- SRS -->
-                        <name>March for abortion rights in front of Royal York Hotel (which was hosting a Right to Life convention)</name>
+                        <name>March for abortion rights in front of Royal York Hotel (which was
+                            hosting a Right to Life convention)</name>
                         <date when="1979-10-06">October 6</date>
                         <placeName corresp="places.xml#RYH">Royal York Hotel</placeName>
                         <seg corresp="1979.xml#n79.302"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="MET79">
                     <p>
                         <!-- SRS -->
@@ -1865,17 +1866,18 @@
                         <seg corresp="1979.xml#n79.301"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="BTE">
                     <p>
                         <!-- SRS -->
                         <name>Picket of Back to Eden health food store</name>
                         <date when="1979-09-29">September 29</date>
-                        <placeName corresp="places.xml#BTE">Back to Eden health food store</placeName>
+                        <placeName corresp="places.xml#BTE">Back to Eden health food
+                            store</placeName>
                         <seg corresp="1979.xml#n79.272"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="AJKP">
                     <p>
                         <!-- SRS -->
@@ -1885,31 +1887,34 @@
                         <seg corresp="1979.xml#n79.244"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="AJKS">
                     <p>
                         <!-- SRS -->
-                        <name>Police officer rally supporting officers who killed Albert Johnson</name>
+                        <name>Police officer rally supporting officers who killed Albert
+                            Johnson</name>
                         <date when="1979-09-30">September 30, 1979</date>
                         <placeName corresp="places.xml#TOR"/>
                         <seg corresp="1979.xml#n79.244"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="RSQR">
                     <p>
                         <!-- SRS -->
-                        <name>Large rally in Robson Square to protest police inaction concerning anti-gay violence</name>
+                        <name>Large rally in Robson Square to protest police inaction concerning
+                            anti-gay violence</name>
                         <date when="1979-08-13">August 13</date>
                         <placeName corresp="places.xml#ROBSQ">Robson Square</placeName>
                         <seg corresp="1979.xml#n79.229"/>
                     </p>
                 </event>
-                
+
                 <event xml:id="ABRY9">
                     <p>
                         <!-- SRS -->
-                        <name>Anti-Anita Bryant demonstration protesting her visit to Memorial Stadium. First gay demonstration in Petersborough.</name>
+                        <name>Anti-Anita Bryant demonstration protesting her visit to Memorial
+                            Stadium. First gay demonstration in Petersborough.</name>
                         <date when="1978-04-28">April 28</date>
                         <placeName corresp="places.xml#PET">Peterborough</placeName>
                         <seg corresp="1978.xml#n78.179"/>
@@ -1949,7 +1954,7 @@
                         <persName sameAs="people.xml#GMON">Gordon Montador</persName>
                         <persName sameAs="people.xml#DMAC">David Maclean</persName>
                         <persName sameAs="people.xml#LSEG">Lorraine Segato</persName>
-                        <persName sameAs="people.xml#CBEA">Chris Bearchell</persName>   
+                        <persName sameAs="people.xml#CBEA">Chris Bearchell</persName>
                         <seg corresp="1979.xml#n79.28"/>
                     </p>
                 </event>
@@ -1974,7 +1979,8 @@
                         <orgName corresp="organizations.xml#FLAG">FLAG</orgName>
                         <orgName corresp="organizations.xml#HST">100 Huntley Street</orgName>
                         <orgName corresp="organizations.xml#ABCR">Anita Bryant Crusade</orgName>
-                        <orgName corresp="organizations.xml#RENI">Renaissance International</orgName>
+                        <orgName corresp="organizations.xml#RENI">Renaissance
+                            International</orgName>
                         <persName sameAs="people.xml#NGOLD">Nancy Goldsberry</persName>
                         <seg corresp="1979.xml#n79.33"/>
                     </p>
@@ -1989,8 +1995,10 @@
                         <placeName corresp="places.xml#WIND">Windsor</placeName>
                         <placeName corresp="places.xml#ECC">Essex County Court</placeName>
                         <placeName corresp="places.xml#TOR">Toronto</placeName>
-                        <orgName corresp="organizations.xml#GPDF">Gay Parents' Defence Food</orgName>
-                        <orgName corresp="organizations.xml#GBDC">Gayle Bezaire Defence Comittee</orgName>
+                        <orgName corresp="organizations.xml#GPDF">Gay Parents' Defence
+                            Food</orgName>
+                        <orgName corresp="organizations.xml#GBDC">Gayle Bezaire Defence
+                            Comittee</orgName>
                         <persName sameAs="people.xml#JMCM">Joseph McMahon</persName>
                         <persName sameAs="people.xml#GBEZ">Gail (Gayle) Bezaire</persName>
                         <persName sameAs="people.xml#DMAI">David Mainse</persName>
@@ -2004,8 +2012,9 @@
                         <date when="1979-01-17">January 21</date>
                         <placeName corresp="places.xml#OAK">Oakville</placeName>
                         <placeName corresp="places.xml#FBC">Faith Baptist Church</placeName>
-                        <orgName corresp="organizations.xml#RENI">Renaissance International</orgName>
-                        <persName sameAs="people.xml#KCAM">Ken Campbell</persName> 
+                        <orgName corresp="organizations.xml#RENI">Renaissance
+                            International</orgName>
+                        <persName sameAs="people.xml#KCAM">Ken Campbell</persName>
                         <seg corresp="1979.xml#n79.38"/>
                     </p>
                 </event>
@@ -2016,7 +2025,8 @@
                         <date when="1979-03-07">March 7</date>
                         <placeName corresp="places.xml#TOR">Toronto</placeName>
                         <placeName corresp="places.xml#QUEE">Queen's Park</placeName>
-                        <orgName corresp="organizations.xml#CCT">Concerned Citizens of Toronto</orgName>
+                        <orgName corresp="organizations.xml#CCT">Concerned Citizens of
+                            Toronto</orgName>
                         <orgName corresp="organizations.xml#CGA">CGA</orgName>
                         <persName sameAs="people.xml#RELG">Robert Elgie</persName>
                         <persName sameAs="people.xml#JFRA">James Fraser</persName>
@@ -2038,22 +2048,22 @@
                     </p>
                 </event>
                 <event xml:id="RGPD">
-                <p>
-                    <!-- CV -->
-                    <name>Rally of gays and people with disabilities at Queen's Park</name>
-                    <date when="1979-03-07">March 7</date>
-                    <placeName corresp="places.xml#TOR">Toronto</placeName>
-                    <placeName corresp="places.xml#QUEE">Queen's Park</placeName>
-                    <orgName corresp="organizations.xml#CFLT">CLT</orgName>
-                    <orgName corresp="organizations.xml#OHRC">OHRC</orgName>
-                    <orgName corresp="organizations.xml#LIB">Liberals</orgName>
-                    <orgName corresp="organizations.xml#NDP">NDP</orgName>
-                    <orgName corresp="organizations.xml#OHRC">OHRC</orgName>
-                    <persName sameAs="people.xml#SSMITH">Stuart Smith</persName>
-                    <persName sameAs="people.xml#MCAS">Michael Cassidy</persName>
-                    <persName sameAs="people.xml#RELG">Robert Elgie</persName>
-                    <seg corresp="1979.xml#n79.116"/>
-                </p>
+                    <p>
+                        <!-- CV -->
+                        <name>Rally of gays and people with disabilities at Queen's Park</name>
+                        <date when="1979-03-07">March 7</date>
+                        <placeName corresp="places.xml#TOR">Toronto</placeName>
+                        <placeName corresp="places.xml#QUEE">Queen's Park</placeName>
+                        <orgName corresp="organizations.xml#CFLT">CLT</orgName>
+                        <orgName corresp="organizations.xml#OHRC">OHRC</orgName>
+                        <orgName corresp="organizations.xml#LIB">Liberals</orgName>
+                        <orgName corresp="organizations.xml#NDP">NDP</orgName>
+                        <orgName corresp="organizations.xml#OHRC">OHRC</orgName>
+                        <persName sameAs="people.xml#SSMITH">Stuart Smith</persName>
+                        <persName sameAs="people.xml#MCAS">Michael Cassidy</persName>
+                        <persName sameAs="people.xml#RELG">Robert Elgie</persName>
+                        <seg corresp="1979.xml#n79.116"/>
+                    </p>
                 </event>
                 <event xml:id="B94">
                     <p>
@@ -2077,7 +2087,8 @@
                         <date when="1979-07-03">July 3, 1979</date>
                         <placeName corresp="places.xml#SFCH">San Francisco City Hall</placeName>
                         <placeName corresp="places.xml#CASTRO">Castro Street</placeName>
-                        <orgName corresp="organizations.xml#POASF">Police Officers' Association (San Francisco)</orgName>
+                        <orgName corresp="organizations.xml#POASF">Police Officers' Association (San
+                            Francisco)</orgName>
                         <persName sameAs="people.xml#DWHI">Dan White</persName>
                         <persName sameAs="people.xml#HMIL">Harvey Milk</persName>
                         <persName sameAs="people.xml#GMOSC">George Moscone</persName>
@@ -2092,7 +2103,7 @@
                         <name>Festival of Gay Spirits</name>
                         <date from="1979-06-01" to="1979-06-03">June 1-3</date>
                         <placeName corresp="places.xml#TOR">Toronto</placeName>
-                        <orgName corresp="organizations.xml#GLU">Gay Liberation Union</orgName> 
+                        <orgName corresp="organizations.xml#GLU">Gay Liberation Union</orgName>
                         <seg corresp="1979.xml#n79.169"/>
                     </p>
                 </event>
@@ -2102,7 +2113,7 @@
                         <name>Gairilla</name>
                         <date from="1979-06-16" to="1979-06-23">June 16-23</date>
                         <placeName corresp="places.xml#RDUL">Rue Duluth</placeName>
-                        <placeName corresp="places.xml#PLF">Parc Lafontaine</placeName> 
+                        <placeName corresp="places.xml#PLF">Parc Lafontaine</placeName>
                         <seg corresp="1979.xml#n79.183"/>
                     </p>
                 </event>
@@ -2112,8 +2123,10 @@
                         <name>52 Division Police Headquarters Demonstration</name>
                         <date when="1979-06-25">June 25</date>
                         <date when="1979-06-28">June 28</date>
-                        <placeName corresp="places.xml#HQ52">52 Division Police Headquarters</placeName>
-                        <placeName corresp="places.xml#CC519">519 Church Street Community Centre</placeName>
+                        <placeName corresp="places.xml#HQ52">52 Division Police
+                            Headquarters</placeName>
+                        <placeName corresp="places.xml#CC519">519 Church Street Community
+                            Centre</placeName>
                         <orgName corresp="organizations.xml#RFM">ReforMetro</orgName>
                         <orgName corresp="organizations.xml#D9DF">RTPC</orgName>
                         <orgName corresp="organizations.xml#TPS">Toronto Police Service</orgName>
@@ -2129,12 +2142,14 @@
                         <name>Celebration '79</name>
                         <date from="1979-06-27" to="1979-07-02">June 27-July 2</date>
                         <date when="1979-06-27">June 27</date>
-                        <placeName corresp="places.xml#OTT">52 Division Police Headquarters</placeName>
+                        <placeName corresp="places.xml#OTT">52 Division Police
+                            Headquarters</placeName>
                         <orgName corresp="organizations.xml#CNDH">CLGRC/CCDLG</orgName>
                         <orgName corresp="organizations.xml#GO">GO</orgName>
                         <orgName corresp="organizations.xml#CHRC">CHRC</orgName>
                         <orgName corresp="organizations.xml#RENC">Renaissance Canada</orgName>
-                        <orgName corresp="organizations.xml#BPEA">Bill Prankard Evangelist Association</orgName>
+                        <orgName corresp="organizations.xml#BPEA">Bill Prankard Evangelist
+                            Association</orgName>
                         <persName sameAs="people.xml#MDEW">Marion Dewar</persName>
                         <persName sameAs="people.xml#GFAI">Gordon Fairweather</persName>
                         <persName sameAs="people.xml#KCAM">Ken Campbell</persName>
@@ -2151,8 +2166,8 @@
                         <placeName corresp="places.xml#VAN">Vancouver</placeName>
                         <placeName corresp="places.xml#MISS">Mission</placeName>
                         <placeName corresp="places.xml#WECC">West End Community Centre</placeName>
-                        <orgName corresp="organizations.xml#GATEV">GATE Vancouver</orgName> 
-                        <persName sameAs="people.xml#JVOL">Jack Volrich</persName>  
+                        <orgName corresp="organizations.xml#GATEV">GATE Vancouver</orgName>
+                        <persName sameAs="people.xml#JVOL">Jack Volrich</persName>
                         <seg corresp="1979.xml#n79.213"/>
                     </p>
                 </event>
@@ -2164,11 +2179,11 @@
                         <placeName corresp="places.xml#TOR">Toronto</placeName>
                         <placeName corresp="places.xml#NPS">Nathan Phillips Square</placeName>
                         <placeName corresp="places.xml#OL">Ontario Legislature</placeName>
-                        <orgName corresp="organizations.xml#TPS">Metro Police</orgName> 
+                        <orgName corresp="organizations.xml#TPS">Metro Police</orgName>
                         <persName sameAs="people.xml#BHAW">Brent Hawkes</persName>
-                        <persName sameAs="people.xml#PGIV">Phil Givens</persName> 
-                        <persName sameAs="people.xml#PGODF">PGODF</persName> 
-                        <persName sameAs="people.xml#HADA">Harold Adamson</persName> 
+                        <persName sameAs="people.xml#PGIV">Phil Givens</persName>
+                        <persName sameAs="people.xml#PGODF">PGODF</persName>
+                        <persName sameAs="people.xml#HADA">Harold Adamson</persName>
                         <seg corresp="1979.xml#n79.309"/>
                     </p>
                 </event>
@@ -2178,7 +2193,7 @@
                         <name>Lesbians at War Paint-and-Poster #1</name>
                         <date when="1978-10-31">October 29</date>
                         <placeName corresp="places.xml#VAN">Vancouver</placeName>
-                        <orgName corresp="organizations.xml#LAW">Lesbians at War</orgName> 
+                        <orgName corresp="organizations.xml#LAW">Lesbians at War</orgName>
                         <seg corresp="1978.xml#n78.353"/>
                     </p>
                 </event>
@@ -2191,10 +2206,10 @@
                         <placeName corresp="places.xml#TCC">Turret Gay Community Centre</placeName>
                         <placeName corresp="places.xml#ALTB">Alternate Bookstore</placeName>
                         <placeName corresp="places.xml#DART">Dartmouth</placeName>
-                        <orgName corresp="organizations.xml#GAE">GAE</orgName> 
+                        <orgName corresp="organizations.xml#GAE">GAE</orgName>
                         <persName sameAs="people.xml#TBUR">Tom Burns</persName>
-                        <persName sameAs="people.xml#AWIL">Alex Wilson</persName> 
-                        <persName sameAs="people.xml#LMURP">Lynn Murphy</persName> 
+                        <persName sameAs="people.xml#AWIL">Alex Wilson</persName>
+                        <persName sameAs="people.xml#LMURP">Lynn Murphy</persName>
                         <seg corresp="1979.xml#n79.42"/>
                     </p>
                 </event>
@@ -2206,8 +2221,8 @@
                         <placeName corresp="places.xml#TOR">Toronto</placeName>
                         <placeName corresp="places.xml#TCH">Toronto City Hall</placeName>
                         <persName sameAs="people.xml#KCAM">Ken Campbell</persName>
-                        <persName sameAs="people.xml#DMAI">David Mainse</persName> 
-                        <persName sameAs="people.xml#JSEW">John Sewell</persName> 
+                        <persName sameAs="people.xml#DMAI">David Mainse</persName>
+                        <persName sameAs="people.xml#JSEW">John Sewell</persName>
                         <seg corresp="1979.xml#n79.42"/>
                     </p>
                 </event>

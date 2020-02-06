@@ -63,12 +63,11 @@
         <event xml:id="n81.1">
           <p> <placeName corresp="places.xml#MON">Montréal</placeName><title level="m">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui</title>, a one-hour-and-forty-five-minute video made for lesbians only and surveying the state of lesbian life in Montréal, was released by Video Amazone. </p>
           <bibl>“<title level="m" >"Amazones d’hier, lesbiennes d’aujourd’hui,"</title> <title level="a" corresp="periodicals.xml#p175">Le Berdache</title>, no. 25 (1981),<seg corresp="#n81.1"> p. 8<seg></bibl>
-          <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
+          <bibl> <title level="m">“Amazons Then, Lesbians Now,”</title> <title level="j" corresp="periodicals.xml#p450">Lesbian/Lesbienne</title>, 1, no. 3 (1981): <seg corresp="#n81.1">4</seg>.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> Vancouver Scott Watson’s book of stories Platonic Love: Three Tales of Language and
-            Desire was published by New Star Books. </p>
+          <p> <placeName corresp="places.xml#VAN">Vancouver</placeName> <!-- pd:no id for Scott Watson --> <persName sameAs="">Scott Watson</persName>’s book of stories <title level="m">Platonic Love: Three Tales of Language and Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
           <bibl>
             <!-- pd:no id for Don Larventz -->
             <persName>Don Larventz</persName>, <title level="a">“The Fiction of Sexual
@@ -113,6 +112,13 @@
 
         </event>
         <event xml:id="n81.35">
+<<<<<<< HEAD
+          <p> January–February Ottawa The Ottawa Children’s Aid Society (CAS) confirmed that it
+            <!-- I'm the greatest --> would consider placing children with homosexual foster
+            parents, but only as a last resort. Preference was to be given to placing children in a
+            “normalized setting,” with heterosexual parents. Roger Galipeau, president of GO, called
+            the policy discriminatory and asked CAS to reconsider its position. </p>
+=======
           <p>
             <date>from="1981-01" to="1981-02">January–February</date>
             <placeName corresp="places.xml#OTT">Ottawa</placeName>
@@ -123,21 +129,39 @@
             Galipeau, president of <orgName corresp="places.xml#GO">GO</orgName>, called the policy
             discriminatory and asked <orgName corresp="organizations.xml#CAST">CAS</orgName> to
             reconsider its position. </p>
+>>>>>>> refs/remotes/origin/master
           <bibl>David Garmaise, “Gay Foster Parents a Last Resort: CAS,” Body Politic, no. 71
             (1981), p. 14.</bibl>
 
         </event>
         <event xml:id="n81.71">
+<<<<<<< HEAD
+          <p> February 23 Toronto Three weeks of public hearings on Bill 209, an Act to Amend the
+            Ontario Human Rights Code, were slated to begin before the Social Development Committee
+            of the Ontario Legislature. </p>
+          <bibl>Chris Bearchell, “Strange Bedfellows?” Body Politic, no. 70 (1981), pp.
+=======
           <p>
             <date when="1981-02-23">February 23</date>
             <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings
             on <title level="m">Bill 209 Act to Amend the Ontario Human Rights Code</title>, were slated to begin before
             the Social Development Committee of the <orgName>Ontario Legislature</orgName>. </p>
           <bibl><persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, “Strange Bedfellows?” Body Politic, no. 70 (1981), pp.
+>>>>>>> refs/remotes/origin/master
             10–11.</bibl>
 
         </event>
         <event xml:id="n81.72">
+<<<<<<< HEAD
+          <p> February 23 Toronto The Toronto Board of Education overturned two resolutions to ban
+            discrimination against gays it had instituted in September 1980, by a vote of fourteen
+            to twelve, and replaced them with more conservative ones. Thirty-eight speakers
+            addressed the full board meeting, which lasted more than seven hours. The trustees voted
+            twenty-two to four to outlaw discrimination against gays in the board’s employment
+            practices only, and also agreed to allow discussion of homosexuality in schools but only
+            under strict guidelines, “when conducted by teachers and appropriate board staff as (the
+            topic) arises out of curriculum.” </p>
+=======
           <p>
             <date when="1981-02-23">February 23</date>
             <placeName corresp="places.xml#TOR">Toronto</placeName> The <orgName
@@ -149,6 +173,7 @@
             against gays in the board’s employment practices only, and also agreed to allow
             discussion of homosexuality in schools but only under strict guidelines, “when conducted
             by teachers and appropriate board staff as (the topic) arises out of curriculum.” </p>
+>>>>>>> refs/remotes/origin/master
           <bibl>Merylie Houston, “A Parent Speaks Out: The Gay Issue at the Board: The Latest
             Round,” Mudpie (Toronto), 2, no. 3 (March 1981): 2</bibl>
           <bibl> “Pros and Cons Clash over Gays in Classroom: Education Board Debate,” Toronto Sun,
