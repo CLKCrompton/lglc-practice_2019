@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/lglc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schemas/lglc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="a">Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+  
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Toronto,
+                     ON</placeName>Wages Due Lesbians held a public meeting. Judy Ramirez introduced the organization. Lorna Boschman
+                  opened the meeting talking about her experience as a lesbian in a small town in
+                  high school, the isolation and fear of that situation, and her efforts to find
+                  other lesbians. Sally Shum talked about coming out as a mother. Anne Neal from
+                  Wages Due London talked about the internal autonomy that organizing as a lesbian group
+                  offers its members. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-05-02">May 2</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> Toronto Wages for
+                  Housework Committee marched on Toronto City Hall. Their promotional pamphlet reads 
+                  "Internationally women are demanding $ for the work we all do. All women are
+                  houseworkers." </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-11-04">November 4</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Wages Due Lesbians holds a public meeting St. Paul's
+                  centre (121 Avenue Rd.) </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-12-01">December - January/February</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> La Vie en Rose publishes a
+                  questionnaire on sexual harassment of woman in the workplace. The questionnaire
+                  covers a question about being a lesbian at work: <!-- CC: is there content missing here? --></p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <!-- CC: left off -->
+            <event xml:id="n">
+               <p><date when="1981-03-01">March/April/May</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> An advertisement for a
+                  restaurant appears in La Vie en Rose, the image of the advertisement appears to be
+                  two women kissing. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-03-01">March/April/May</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> This issue of the magazine La
+                  vie en rose covered all aspects of the question about wages for housework. Part of
+                  the analysis used a lesbian perspective. References include Lesbianism and Power
+                  by Ruth Hall (London) and the Wages Due Collective, Why Lesbian Want Wages
+                  for Housework, Fucking is Work and Notes on Separatism, (Toronto 1975). </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-03-01">March/April/May</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> La Vie en Rose publishes a
+                  satire of classified ads. One of the classified is a small blurb about a woman (?)
+                  who is looking for another woman (?) she met on the street: </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1972-07-01">July</date><placeName corresp="places.xml#">Toronto,
+                     ON</placeName> The Women's Place newsletter announces the possibility of a
+                  Lesbian drop-in evening: </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-03-01">March/April/May</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> Advertisement for book Lettre
+                  d'amoure de femmes by Reina Ha-Milton which are a collection of love letters from
+                  a women to a women (includes illustrations by Marie-Hélène Robert). </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-03-01">March/April/May</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> Advertisement for gay bookstore: </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-12-01">December - January/February</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> Advertisment for a newly
+                  published book </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Montreal,
+                     QC</placeName> Lesbian conference in Montreal in January 197? at which a Wages
+                  for Housework workshop was held. Goal is that by next conference, groups will have
+                  papers and positions on nationalist struggles for liberation, and how they fit in
+                  to the International Network. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Toronto,
+                     ON</placeName> Work begins on </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Toronto,
+                     ON</placeName> Introduction to the Wages Due Collective is drafted and shared. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Toronto,
+                     ON</placeName> Wages Due Collective from Toronto meets together every week (in
+                  past two months) and also meets with the Toronto Wages for Housework Collective.
+                  Wages Due Collective's inital work is on understanding and developing the Wages
+                  for Housework perspective. They are also writting a paper on lesbians and the
+                  Wages for Housework perspective called </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Toronto,
+                     ON</placeName> Planning for a public meeting hosted by the Wages Due Collective
+                  about Wages for Housework to be held on January 31st (197?) begins. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Toronto,
+                     ON</placeName> Planning for a public meeting sponsored by Wages Due Collective
+                  and the Toronto Wages for Housework Collective to be held on February 26th (197?)
+                  begins. At this meeting, women from P.O.W. will be speaking and the Wages Due
+                  Collective will share their work on the paper </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-10-28">October 28</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Wages Due Lesbians and CHAT _
+                  hold a benefit activity to support a lesbian mother fighting for cutody of her
+                  children. It was held at CHAT, 199 Church Street, entrance fee was $2. The
+                  activity had a bar, a free buffet, live entertainment and Disco. All women were
+                  welcome. The poster says' </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1975-09-01">September</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> Advertisement for The Body Politics: </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-11-05">December</date><placeName corresp="places.xml#"
+                     >Montreal, QC</placeName> The </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date/><placeName corresp="places.xml#">Francine Pelletier, </placeName>
+                  Jovette Marchessault, </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-11-01">November</date><placeName corresp="places.xml#"
+                     >Houston</placeName> Wages Due Lesbians Toronto participate at the National
+                  Women's Conference to pass lesbian rights and welfare resolutions </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-06-01">June</date><placeName corresp="places.xml#">Los
+                     Angeles, CA, USA</placeName> Wages Due Lesbians Toronto speak at a 15
+                  000-strong Gay Pride Rally </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-26">May 26</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> Constitution of Wages Due Lesbian
+                  is drafted and enacted. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">May 30</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> Wages Due Lesbians organize a
+                  dance to sponsor a local lesbian mother fighting a custody case. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Toronto,
+                     On</placeName> First pamphlet in North America on </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>1976?</date><placeName corresp="places.xml#">Toronto,
+                     On</placeName> Protest against freeze in family allowance </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1978-01-01">January</date><placeName corresp="places.xml#"
+                     >Toronto, On</placeName> Wages Due Lesbians Toronto hold a rally and march
+                  against Anita Bryant to bring the issue of custody rights for lesbian mothers and
+                  the right of children to choose for themselves what their sexuality will be. The
+                  mother speaking received a standing ovation from the audience of 1000. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-11-05">November 5</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> Wages Due Lesbians Toronto
+                  participate in the national day of protest against rape </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-10-14">October 14</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> Wages Due Lesbians Toronto host a
+                  lesbian conference </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-10-14">October 14</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> Wages Due Lesbians Toronto
+                  organize a special women's rally for the Day of Protest </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-10-01">October</date><placeName corresp="places.xml#"
+                     >Toronto, On</placeName> Wages Due Lesbians help occupy Nellie's Women's Hostel
+                  to raise funds to save the hostel / Toronto October 1976, women from Nellie's
+                  Hostel ended their occupation after receiving $7,000 from the local government and
+                  a one year federal grant that allowed them to hire more staff. Their fight for
+                  long-term funding continues. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-05-24">May 24</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> Wages Due Lesbians (Toronto)
+                  publishes a statement endorsing the immigrant Women's Centre's statement </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-06-24">July 24</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> A women's dance is organized </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">May 30</date><placeName
+                     corresp="places.xml#">Chicago, IL, USA</placeName> Lesbian women in Wages for
+                  Housework Campaign meet at the Chicago conference to discuss. They decide to
+                  committ themselves </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-07-23">July 23</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> Gay rights demonstration, about
+                  500 people taking part - the women leading the way in the march up Toronto's </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-05-10">May 10</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> First Wages for Houswork Campaign
+                  report by the lesbian women in the Wages for Housework Campaign. The report
+                  includes the following: - a chronologically edited collection of (some of ) the
+                  activities of Wages Due Lesbian - Toronto. - a couple of documents from Wages Due
+                  Lesbians in London. - a brief overview of the meeting on Housework and Sexuality
+                  event of April 28 1977. - a brief overview of a tour of Ohio and Oven Production
+                  concerts. - a call for articles for the international activity bulletin. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-05-10">May 10</date><placeName
+                     corresp="places.xml#">Toronto, On</placeName> An official call for article
+                  submission was sent out in the report from Wages Due Lesbians - Toronto which
+                  would appear in the lesbian issue of the Toronto Wages for Housework Bulletin: </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">May 30</date><placeName
+                     corresp="places.xml#">Ohio, USA</placeName> Boo Watson conducts a tour of Ohio,
+                  with concert stops in Cleveland, Oberlin, and near Akron and Columbus. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-04-28">April 28</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> At a meeting on Wages for
+                  Housework and Sexuality, talks by Ellen Agger (Wages Due) and Frances Gregory
+                  (Toronto Wages for Housework committee) were given. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">May 30</date><placeName
+                     corresp="places.xml#">Various cities in North America</placeName> Lorna
+                  Boschman completes her tour of North America as a Wages for Housework Campaign
+                  Comedienne. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">San Francisco and
+                     Los Angeles (CA, USA)</placeName> Francie from Wages Due Lesbians travels to
+                  San Francisco and Los Angeles. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-06-29">29 June</date><placeName corresp="places.xml#"
+                     >Saskatoon, SK</placeName> 4th National Gay Rights Conference </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-07-13">July 13</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Wages Due Lesbians help raise
+                  funds for to sponsor a local lesbian mother (Mrs. X) fighting a custody case and
+                  hold a picket in front of the Supreme Court of Ontario for custody rights for
+                  lesbian mothers. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-12-01">December - January/February</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> La vie en rose publishes a
+                  review of the book </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>?</date><placeName corresp="places.xml#">Trenton, ON</placeName>
+                  Chrys Burman writes to Wages Due Lesbian to ask them to remove her adress off the
+                  mailing list. She is a married women with two children. She explains that her
+                  husband does not </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-05-01">May 1</date><placeName
+                     corresp="places.xml#">Kingston, ON</placeName> FW gives remarks to the audience
+                  about passing a vote to determine whether or not the Lesbian movement should
+                  become an autonomous group. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-05-01">May 1</date><placeName
+                     corresp="places.xml#">Kingston, ON</placeName> Wages Due Lesbians sends a
+                  letter to all members explaining that many lesbian women will not attend the
+                  Kingston Conference on Lesbians and the Gay movement as it is open to men: </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">Summer 1977</date><placeName corresp="places.xml#"
+                     >Canada</placeName> Lorna Boschman, a lesbian comedienne and jester starts
+                  planning to travel through Canada, the mid - and Western US during the summer. In
+                  her report, Ellen A. promotes Lorna : </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-05-10">May 10</date><placeName
+                     corresp="places.xml#">Cleveland, Ohio, USA</placeName> Ellen A. speaks at 3
+                  public meetings on Lesbianism and the Wages for Housework Campaign (1 in Cleveland
+                  Ohio, and 2 meetings at Oberlin College): </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-05-12">May 12</date><placeName
+                     corresp="places.xml#">Cleveland, Ohio, USA</placeName> Ellen A. speaks at 3
+                  public meetings on Lesbianism and the Wages for Housework Campaign (1 in Cleveland
+                  Ohio, and 2 meetings at Oberlin College): </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-05-06">May 6</date><placeName corresp="places.xml#"
+                     >Ottawa, ON</placeName> A delegation from the Family Allowance Protest went to
+                  Ottawa. The protest happened on Mother's Day of 1977 (May 6th). The delegation was
+                  composed of Wages Due Lesbians and the Toronto Committee. The inital plan was to
+                  present the 10 000 signatures for the petition as well as a brief titled </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            
+            
+            
+            <event xml:id="n">
+               <p><date>Ellen Agger, </date><placeName corresp="places.xml#"/></p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-06-01">June</date><placeName corresp="places.xml#">Toronto,
+                     ON</placeName> Wages Due Lesbians organizes a </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-05-18">May 18</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Ellen, Florence, and Frances
+                  attended a </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>Summer 1977 or 1976?</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> Dorothy Kidd writes a letter on behalf of Wages Due
+                  Lesbians to the June issue of the Body Politic in response to articles about the
+                  strategy for the gay movement, brought on by demands of lesbian women for autonomy
+                  at the last two big North American gay conferences. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-03-25">March 25</date><placeName
+                     corresp="places.xml#">New York, New York, USA</placeName> Speech given by Ellen
+                  Agger on sexuality panel at women's day of workshops at Queen's college, New-York.
+                  Women's action group and Black women for Wages for Housework. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-03-11">March 11</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Rally against family allowance
+                  cutback. Held at University of Toronto, and attended by 400 people. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-12-01">December - January/February</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> La vie en rose published a word
+                  search game in which the words 'lesbian' appears. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-03-01">March/April/May</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> La Vie en Rose publishes a
+                  recap/opinion pièce by Francine Pelletier titled </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-12-01">December - January/February</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> La vie en rose published various
+                  custody and pension scenarios as exemples for understanding how custody and
+                  pension battles happen in court. In one of the scenarios the mother asks that her
+                  daughter attend a private boarder school, but the father refuses on account that
+                  the school would turn the daughter into a lesbian. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-12-01">December - January/February</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> At a conférence in Montréal
+                  about women and information (Colloques sur les femmes et l'information) organized
+                  by the Fédération professionnelle des journalistes du Québec, Janette Bertrand
+                  recalls that she upsets the men she works with, because as a married women with
+                  kids, they can't call her a lesbian in need of a good fuck like the other
+                  feminists. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1975-09-01">September</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> Publication of opinion piece by Gladys Krehm titled
+                  Straws in the wind which references Patty Hearst: </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-07-24">July 24</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Conference on lesbians and the
+                  Wages for Housework Campaign sponsored by Toronto Wages Due Lesbians. ADD info
+                  here from Photo. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-09-01">September</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> The Body Politic publishes an article on the
+                  Conference on lesbians and the Wge for Housework Campaign that was sponsored by
+                  the Toronto Wages Due Lesbians. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-04-04">April 04,1977</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> Bill to include sexual orientation in Ontario Human
+                  Rights Code introduced by Ontario MPP Margaret Campbell. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-03-24">March 24</date><placeName
+                     corresp="places.xml#">New York, New York, USA</placeName> Jean O'Leary,
+                  legistative director of the National Gay Task force, responds to Ellen Agger about
+                  her request to obtain a list of lesbian groups: </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-12-01">December - January/February</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> Publication of a short story in
+                  which one of the main characters is a lesbian woman. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-04-03">April 3</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Beginning of argument of whether
+                  or not Wages Due should be a lesbian only group. Argument is between Judy Q., Boo
+                  Watson, Ellen A, and Francie (?). </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>October 14 (?)</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Judy Quinlan gives a presentation
+                  at the Toronto Conference about autonomy. Speech references Francie Wyland’s paper
+                  on Separatism, also presented at the conference, Lesbianism and Power by Ruth Hall
+                  at Wages Due London, and Fucking is Work, Wages Due Toronto. At the opening of
+                  this conference, Selma James and Silvia Federici </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-27">May 27</date><placeName
+                     corresp="places.xml#">Ontario and Quebec</placeName> Ellen Woodsworth and
+                  Judith Quinlan star Cora, the women's liberation bookmobile. They travelled all
+                  over Ontario and Quebec, selling feminist books and kids books. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-22">May 22</date><placeName
+                     corresp="places.xml#">Vancouver, B.C.</placeName> Ellen Woodsworth, with other
+                  women, forms a house called New Morning. A lesbian feminist collective is also
+                  formed there with Margo Dunn, D.J. O'Donnell, and Sharon Ladd. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-23">Fall 1970</date><placeName corresp="places.xml#"
+                     >Washington, D.C.</placeName> Ellen Woodsworth travels to Washington for the
+                  Black Panthers' Revolutionary Constitutional Convention. Women from all accross
+                  the U.S. travel together in a bus, that is where Ellen hears about a conference
+                  happening in Vancouver with Indo-Chinese women. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-24">May 24</date><placeName
+                     corresp="places.xml#">Vancouver, B.C.</placeName> Ellen Woodsworth starts to
+                  work on the Indo-Chinese women conference in Vancouver. She wishes to talk about
+                  lesbian issues but other organizers say that she can't talk about these issues </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Vancouver,
+                     B.C.</placeName> Ellen Woodsworth works for the Georgia Straight, Vancouver's
+                  weekly cultural paper. She is only able to write a few feminist lines or quotes in
+                  the columns of the newspaper. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>197?</date><placeName corresp="places.xml#">Vancouver,
+                     B.C.</placeName> Ellen Woodsworth tries to get some lesbian articles into the
+                  Pedestral, the women's liberation newespaper in Vancouver (and the only one at the
+                  time in Canada), but they wouldn't print them. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-25">May 25</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Ellen Woodsworth, when at her
+                  brother's wedding, meets someone who works for Guerilla, a biweekly newspaper in
+                  Toronto. This is when Ellen decides to start a new newspaper: 'I knew I wanted an
+                  international newspaper that talked about liberation issues, and I wanted to be
+                  sure that it had lesbian content. So I moved to Toronto and Holly Devor and I
+                  started The Other Women. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>1972 or 1973</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> Ellen Woodsworth and Holly Devor approached the Dupont
+                  Street Women's Centre to ask to start a lesbian drop in. There was fierce
+                  opposition but they finally were able to use the basement for the drop in. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-26">May 26</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> From the lesbian drop ins, Ellen
+                  W. and Holly D. organized the first gay women's conference in Canada. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>1970s</date><placeName corresp="places.xml#">Vancouver and
+                     Toronto</placeName> Lesbian bars include: Vanport, Champagne, Charlie's, the
+                  Dufferin. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1981-12-01">December - January/February</date><placeName
+                     corresp="places.xml#">Montreal, QC</placeName> La Vie en Rose publishes a
+                  report on the American Right Wing's agenda for </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date>May23-24, 197?</date><placeName corresp="places.xml#"
+                     >Bolton, ON</placeName></p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-06-01">June/July 1976</date><placeName corresp="places.xml#"
+                     >Ottawa, ON</placeName> Kendra Forbes of Gays of Ottawa declares in the Gays of
+                  Ottawa newsletter that </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-08-25">August 25</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Letter by Lorna Boschman to Gays
+                  of Ottawa about the Toronto Wages for Housework Committee and Wages Due Lesbians
+                  position on why wages for housework is important for the advancement of women's
+                  equality. In the letter, Lorna Boschman, and the two organizations spoke to
+                  different groups of women, received media attention and circulated a petition
+                  called </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1974-05-30">May 30</date><placeName
+                     corresp="places.xml#">Ontario</placeName> Article in The Toronto Star covering
+                  the Bookmobile initiative: Judith Quinlan and Ellen Woodworth from Toronto
+                  converted a school bus to travel to small towns in central and southern Ontario to
+                  bring feminist books to small towns where library usually don't hold books on
+                  topics such as history of Women in canada, birth control, day care, food pricing,
+                  feminist poetry, etc. To raise money for this project, the two women sell
+                  photostating of article at a penny a piece, but most women, even if interested in
+                  the articles and books, cannot afford to buy copies. Judith and Ellen quit their
+                  jobs for the summer to be able to do this project. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">May 30</date><placeName
+                     corresp="places.xml#">Kingston, ON</placeName> Queen's University Campus
+                  Bookstore in Clarke Hall refuses to carry the Body Politics periodical. Queens
+                  Homophile Association will bring this to the Bookstore's attention. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">May 30</date><placeName
+                     corresp="places.xml#">Kingston, ON</placeName> QHA NEWS mentions that the NGRC
+                  is planning a protest to take place during the third reading of the Canada Human
+                  Rights Act. They invite readers to let them know if they wish to carry a sign to
+                  parliment. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">May 30</date><placeName
+                     corresp="places.xml#">Kingston, ON</placeName> QHA NEWS mentions Wages for
+                  Housework Committe of Toronto Wages Due Lesbians' petitions and calls on readers
+                  to sign them. The first petition is about the government's plan to reduce the
+                  minimum wage in establishements were alcohol is served, supposedly because
+                  waitresses and waiters make such great tips. The second addresses itself to the
+                  federal governement's plan to cut back family allowances, and tax such incomes. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">May 30</date><placeName
+                     corresp="places.xml#">Kingston, ON</placeName> QHA NEWS mention that surveys
+                  for a study of gay sexual practices undertaken by Karla Jay and Allen Young
+                  (authors of several books) will be made available for all interested to
+                  participate. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">May 30</date><placeName
+                     corresp="places.xml#">Kingston, ON</placeName> Drop-in offered every Friday
+                  night at 8 pm at Grey House, 51 Queen's Crescent. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-06-02">June 2</date><placeName
+                     corresp="places.xml#">Kingston, ON</placeName> Candidate meeting at Ellis Hall,
+                  Queen's University to discuss each candidates individual and party policy
+                  regarding gays. Candidates present were: John Phair, Mr. Norton (PC), MR. Clements
+                  (NDP), Ms. Andrews (Communist) and Mr. Watson (Liberal and school board trustee).
+                  The opinions on gay rights were: - The PC party policy is to ignore gays. - The
+                  NDP supports most of the demands of CGRO (but the candidate present himself felt </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            
+            <event xml:id="n">
+               <p><date>QHA news. Queens Homophile Association, 51 Queen's Crescent,
+                     Kingston, Ontario. Vol. 1, no 4, June 1978 in </date><placeName
+                     corresp="places.xml#"/></p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-05-26">May 26</date><placeName
+                     corresp="places.xml#">Kingston, ON</placeName> The Frontenac County Board of
+                  Education voted 12-4 </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-06-28">28 June</date><placeName corresp="places.xml#"
+                     >Saskatoon, SK</placeName> National Conference held from the 28th of June until
+                  the 3rd of July </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1977-04-28">April 28</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName></p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-28">May 28</date><placeName
+                     corresp="places.xml#">Ottawa, ON</placeName> Labour Minister Bette Stephenson
+                  refuses to meet with members of the Coalition for Gay Rights of Ontario (CGRO). </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-07-30">July 30</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Shari Me from Colombia, Missouri
+                  and an american lesbian women, writes to the Wages Due Lesbian as she is working
+                  on a 'politically oriented Housework book </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1980-03-01">March</date><placeName corresp="places.xml#"
+                     >Montreal, QC</placeName> Opinion piece on humor used for Quebec's National New
+                  Year's TV show of 1979 (Le Bye Bye) referencing the racist, sexist or other
+                  prejudiced jokes used year after year : </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-07-23">July 23-25</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> International conference </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-04-21">April 21</date><placeName
+                     corresp="places.xml#">London, ON</placeName> A lesbian was Honorably released
+                  from her functions in the Canadian Forces (4RCR Infantry Unit) for </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-06-30">June 30</date><placeName
+                     corresp="places.xml#">Ottawa, ON</placeName> An article covering a Wages Due
+                  Lesbian with Toronto Wages for Housework Committee meeting is published. It
+                  relates some of the key issues Lesbians face, such as married women being enable
+                  to come out because of the financial stress, or how housework is forced upon women
+                  and never recognized and valued. Francie Wyland was the interviewee for the
+                  article. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-29">Summer 1976?</date><placeName corresp="places.xml#"
+                     >Massachusetts, USA</placeName> Susan Jacoby sends a personal position paper to
+                  the Wages Due Lesbian group for use at the conference </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1905-05-30">Spring 1977</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> Wages for Housework prints a Campaign Bulleting which
+                  addresses some of the economic challenges women face: </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-05-01">May 1</date><placeName
+                     corresp="places.xml#">Los Angeles, CA, USA</placeName> Sidney Ross-Risden,
+                  based in Los Angeles (CA, USA) writes to Wages Due Lesbians asking if they could
+                  write a piece for the Lesbian News (in L.A.) Ruth (Hall?) respnded to use London's
+                  Wage Due Lesbian piece from the andthology and their endorsement. From the looks
+                  of the letter, Sidney knew Wages Due Lesbian very well, her tone is casual, she
+                  gives some personal news and wants to hear about their news as well (Frances,
+                  Ruth, and Judy are named). In the letter, Sidney also makes a reference to May Day
+                  (1976?), a conference that was held at which a group from San Fransisco came, and
+                  that a working relationship with the feminist Women's health center in L.A. may be
+                  created out of the conference. They received some media coverage, one spot on
+                  T.V., and an article in LA Opinion (a spanish speaking daily paper). One women
+                  interviewed Ben and Susan (?) and they were asked to participate in some forums
+                  for women in the Spanish community, on women's health. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-03-04"> March 4–8</date><placeName corresp="places.xml#"
+                     >Brussels, BELGIUM</placeName> Ruth travels to Brussels for the International
+                  Tribunal on Crimes against Women. Wages Due Lesbian and Wages for Housework
+                  organizations from other countries also take part in the conference. </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-05-01">May 1</date><placeName
+                     corresp="places.xml#">Toronto, ON</placeName> Wages Due Lesbian and/or Wages
+                  for Housework participate in the Toronto May Day in 1976 </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+            <event xml:id="n">
+               <p><date when="1976-04-07">April-07-1976</date><placeName corresp="places.xml#"
+                     >Toronto, ON</placeName> Wages Due Lesbian, from Wages for Housework Women's
+                  Centre in London, Ontario, writes to Wages Due Lesbians, Toronto faction about
+                  sharing a speech Ellen A. has made at a public rally. They would like a copy of
+                  the speech, and any other written things as they are themselves preparing a
+                  lesbian insert for the family assitance petition and need some groundwork to work
+                  with. They also ask about media coverage of the Toronto faction, as they are
+                  thinking of holding a public meeting after May Day to gain media coverage. Wages
+                  Due Lesbian - London, is also looking into writing a show called 'Judy and Judy',
+                  about two neighbors tricking thei r husbands into finding time together - hinting
+                  at a lesbian relationship but not openly. The letter also mentions that a song
+                  needs to be written about lesbianism, the letter seem to request Boo do it. Also,
+                  the London faction would like an update on whether or not the Toronto faction will
+                  still hold a conference and day of workshops, waht they are planning for May Day
+                  and what type of responses they have had from their door-to door petitioning. With
+                  the letter, there are tapes as well that contain the discussion they had about the
+                  recent National Lesbian Conference. Finally, WDL-London has left Kathy some badges </p>
+               <bibl/>
+               <!-- Add other bibls here, if any  -->
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>

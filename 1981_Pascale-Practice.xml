@@ -27,7 +27,7 @@
         </respStmt>
         <respStmt>
           <resp>Encoded by</resp>
-          <persName sameAs="people.xml#">
+          <persName sameAs="people.xml#PDAN">
             <forename>Pascale</forename>
             <surname>Dangoisse</surname>
           </persName>
@@ -61,20 +61,21 @@
     <body>
       <listEvent n="1981">
         <event xml:id="n81.1">
-          <p> Montréal Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui, a
-            one-hour-and-forty-five-minute video made for lesbians only and surveying the state of
-            lesbian life in Montréal, was released by Video Amazone. </p>
-          <bibl>“Amazones d’hier, lesbiennes d’aujourd’hui,” Le Berdache, no. 25 (1981), p. 8</bibl>
-          <bibl> “Amazons Then, Lesbians Now,” Lesbian/Lesbienne, 1, no. 3 (1981): 4.</bibl>
+          <p> <placeName corresp="places.xml#MON">Montréal</placeName><title level="m">Amazons Then, Lesbians Now/Amazones d’hier, lesbiennes d’aujourd’hui</title>, a one-hour-and-forty-five-minute video made for lesbians only and surveying the state of lesbian life in Montréal, was released by Video Amazone. </p>
+          <bibl>“<title level="m" >"Amazones d’hier, lesbiennes d’aujourd’hui,"</title> <title level="a" corresp="periodicals.xml#p175">Le Berdache</title>, no. 25 (1981),<seg corresp="#n81.1"> p. 8<seg></bibl>
+          <bibl> <title level="m">“Amazons Then, Lesbians Now,”</title> <title level="j" corresp="periodicals.xml#p450">Lesbian/Lesbienne</title>, 1, no. 3 (1981): <seg corresp="#n81.1">4</seg>.</bibl>
 
         </event>
         <event xml:id="n81.14">
-          <p> Vancouver Scott Watson’s book of stories Platonic Love: Three Tales of Language and
-            Desire was published by New Star Books. </p>
-          <bibl>Don Larventz, “The Fiction of Sexual Truth” (review), Body Politic, no. 78 (1981),
-            p. 33</bibl>
-          <bibl> Don Officer, “Beyond the Point” (review), Books in Canada, January 1982, pp.
-            15–16</bibl>
+          <p> <placeName corresp="places.xml#VAN">Vancouver</placeName> <!-- pd:no id for Scott Watson --> <persName sameAs="">Scott Watson</persName>’s book of stories <title level="m">Platonic Love: Three Tales of Language and Desire</title> was published by <orgName corresp="organizations.xml#NSB">New Star Books</orgName>. </p>
+          <bibl>
+            <!-- pd:no id for Don Larventz -->
+            <persName>Don Larventz</persName>, <title level="a">“The Fiction of Sexual
+              Truth”</title> (review), <title level="j" corresp="p10">Body Politic</title>, no. 78
+            (1981), <seg corresp="#n81.14">p.33</seg></bibl>
+          <bibl>
+            <!-- pd: no if for Don Officer --><persName>Don Officer</persName>, “Beyond the Point” (review), Books in
+            Canada, January 1982, pp. 15–16</bibl>
           <bibl> Gerry Oxford, “Platonic Love” (review), Quill &amp; Quire, January 1982, pp.
             31–32</bibl>
           <bibl> Simon Ruddell, “Street Life” (review), Canadian Literature, no. 95 (1982), pp.
@@ -84,16 +85,22 @@
 
         </event>
         <event xml:id="n81.30">
-          <p> January 26 Toronto Lynne Lake, the mother of two schoolchildren, reopened debate on
-            sexual orientation bias at the Toronto Board of Education when she made an emotional
-            plea to the schools programs committee. Lake demanded that the trustees rescind a motion
-            passed September 18, 1980, which prohibited “bias on the basis of sex or sexual
-            orientation,” and which specifically permitted “discussion of homosexuality” in schools.
-            Lake also claimed that the NDP had been “exploiting the (gay) issue” and that gay
-            activist John Argue, the chairman of the Metro Toronto NDP, had used political pressure
-            to swing the vote in favour of the anti-discrimination motion. After some vigorous
-            debate, the issue was referred to a special meeting of the full board of education to be
-            held February 23, 1981. (See also February 23, 1981.) </p>
+          <p>
+            <date when="1981-01-27">January 26</date>
+            <placeName corresp="places.xml#TOR">Toronto</placeName> Lynne Lake, the mother of two
+            schoolchildren, reopened debate on sexual orientation bias at the <orgName
+              corresp="organizations.xml#TBE">Toronto Board of Education</orgName> when she made an
+            emotional plea to the schools programs committee. Lake demanded that the trustees
+            rescind a motion passed <date when="1980-09-18">September 18, 1980</date>, which
+            prohibited “bias on the basis of sex or sexual orientation,” and which specifically
+            permitted “discussion of homosexuality” in schools. Lake also claimed that the <orgName
+              corresp="organization.xml#NDP">NDP</orgName> had been “exploiting the (gay) issue” and
+            that gay activist <persName sameAs="people.xml#JRAG"> John Argue</persName>, the
+            chairman of the <orgName> corresp="organization.xml#NDPO">Metro Toronto NDP</orgName>,
+            had used political pressure to swing the vote in favour of the anti-discrimination
+            motion. After some vigorous debate, the issue was referred to a special meeting of the
+            full board of education to be held <date>when="1981-02-23">February 23, 1981</date>.
+              (<seg> corresp="#n81.72">See also February 23, 1981</seg>.) </p>
           <bibl>Rick Brennan, “No Homosexual Lesson for Her Kids,” Toronto Star, four star ed., 17
             February 1981, p. C18</bibl>
           <bibl> Virginia Corner, “Homosexual Issue Revived by Mom’s Ire,” Toronto Star, four star
@@ -105,24 +112,47 @@
 
         </event>
         <event xml:id="n81.35">
+<<<<<<< HEAD
           <p> January–February Ottawa The Ottawa Children’s Aid Society (CAS) confirmed that it
             <!-- I'm the greatest --> would consider placing children with homosexual foster
             parents, but only as a last resort. Preference was to be given to placing children in a
             “normalized setting,” with heterosexual parents. Roger Galipeau, president of GO, called
             the policy discriminatory and asked CAS to reconsider its position. </p>
+=======
+          <p>
+            <date>from="1981-01" to="1981-02">January–February</date>
+            <placeName corresp="places.xml#OTT">Ottawa</placeName>
+            <orgName> corresp="organizations.xml#CAST">The Ottawa Children’s Aid Society
+              (CAS)</orgName> confirmed that it <!-- I'm the greatest --> would consider placing
+            children with homosexual foster parents, but only as a last resort. Preference was to be
+            given to placing children in a “normalized setting,” with heterosexual parents. Roger
+            Galipeau, president of <orgName corresp="places.xml#GO">GO</orgName>, called the policy
+            discriminatory and asked <orgName corresp="organizations.xml#CAST">CAS</orgName> to
+            reconsider its position. </p>
+>>>>>>> refs/remotes/origin/master
           <bibl>David Garmaise, “Gay Foster Parents a Last Resort: CAS,” Body Politic, no. 71
             (1981), p. 14.</bibl>
 
         </event>
         <event xml:id="n81.71">
+<<<<<<< HEAD
           <p> February 23 Toronto Three weeks of public hearings on Bill 209, an Act to Amend the
             Ontario Human Rights Code, were slated to begin before the Social Development Committee
             of the Ontario Legislature. </p>
           <bibl>Chris Bearchell, “Strange Bedfellows?” Body Politic, no. 70 (1981), pp.
+=======
+          <p>
+            <date when="1981-02-23">February 23</date>
+            <placeName corresp="places.xml#TOR">Toronto</placeName> Three weeks of public hearings
+            on <title level="m">Bill 209 Act to Amend the Ontario Human Rights Code</title>, were slated to begin before
+            the Social Development Committee of the <orgName>Ontario Legislature</orgName>. </p>
+          <bibl><persName sameAs="people.xml#CBEA">Chris Bearchell</persName>, “Strange Bedfellows?” Body Politic, no. 70 (1981), pp.
+>>>>>>> refs/remotes/origin/master
             10–11.</bibl>
 
         </event>
         <event xml:id="n81.72">
+<<<<<<< HEAD
           <p> February 23 Toronto The Toronto Board of Education overturned two resolutions to ban
             discrimination against gays it had instituted in September 1980, by a vote of fourteen
             to twelve, and replaced them with more conservative ones. Thirty-eight speakers
@@ -131,6 +161,19 @@
             practices only, and also agreed to allow discussion of homosexuality in schools but only
             under strict guidelines, “when conducted by teachers and appropriate board staff as (the
             topic) arises out of curriculum.” </p>
+=======
+          <p>
+            <date when="1981-02-23">February 23</date>
+            <placeName corresp="places.xml#TOR">Toronto</placeName> The <orgName
+              corresp="places.xml#TBE">Toronto Board of Education</orgName> overturned two
+            resolutions to ban discrimination against gays it had instituted in <date when="1980-09"
+              >September 1980</date>, by a vote of fourteen to twelve, and replaced them with more
+            conservative ones. Thirty-eight speakers addressed the full board meeting, which lasted
+            more than seven hours. The trustees voted twenty-two to four to outlaw discrimination
+            against gays in the board’s employment practices only, and also agreed to allow
+            discussion of homosexuality in schools but only under strict guidelines, “when conducted
+            by teachers and appropriate board staff as (the topic) arises out of curriculum.” </p>
+>>>>>>> refs/remotes/origin/master
           <bibl>Merylie Houston, “A Parent Speaks Out: The Gay Issue at the Board: The Latest
             Round,” Mudpie (Toronto), 2, no. 3 (March 1981): 2</bibl>
           <bibl> “Pros and Cons Clash over Gays in Classroom: Education Board Debate,” Toronto Sun,
@@ -151,9 +194,12 @@
 
         </event>
         <event xml:id="n81.128">
-          <p> Spring Halifax The first issue of Making Waves: An Atlantic Quarterly for Lesbians and
-            Gay Men was published. Robin Metcalfe edited the magazine. </p>
-          <bibl>Arn Gabel, “Make Way for Making Waves,” Body Politic, no. 70 (1981), p. 12</bibl>
+          <p>
+            <date from="1981-03" to="1981-05">Spring</date>
+            <placeName corresp="HAL">Halifax</placeName> The first issue of Making Waves: An
+            Atlantic Quarterly for Lesbians and Gay Men was published. <persName
+              sameAs="people.xml#RMET">Robin Metcalfe</persName> edited the magazine. </p>
+          <bibl> Arn Gabel, “Make Way for Making Waves,” Body Politic, no. 70 (1981), p. 12</bibl>
           <bibl> Robin Metcalfe, “Making Waves in Atlantic Canada,” Body Politic, no. 74 (1981), p.
             17</bibl>
           <bibl> “New: Making Waves,” Fredericton FLAGMAG, no. 4 (1981), p. 7.</bibl>
@@ -161,14 +207,17 @@
 
         </event>
         <event xml:id="n81.190">
-          <p> May 16–18 Vancouver More than 500 women participated in the fifth Bi-national Lesbian
-            Conference, held at Langara College. The event drew women from across Canada to discuss
-            priorities such as childcare, fighting the Right, and the formation of a national
-            lesbian organization. There were plenary sessions, workshops, an art display (“Woman to
-            Woman,” at the Women in Focus Gallery), and a dance featuring the lesbian rock band Mama
-            Quilla II (with Lorraine Segato). More than 200 women marched in Canada’s first lesbian
-            pride march, from Robson Square through downtown Vancouver to the WECC. A final report,
-            Lesbian Power: Organizing for the 80s, was published after the conference. </p>
+          <p>
+            <date from="1981-05-16" to="1981-05-18"> May 16–18 </date>
+            <placeName corresp="VAN">Vancouver</placeName> More than 500 women participated in the
+            fifth Bi-national Lesbian Conference, held at Langara College. The event drew women from
+            across Canada to discuss priorities such as childcare, fighting the Right, and the
+            formation of a national lesbian organization. There were plenary sessions, workshops, an
+            art display (“Woman to Woman,” at the Women in Focus Gallery), and a dance featuring the
+            lesbian rock band Mama Quilla II (with Lorraine Segato). More than 200 women marched in
+            Canada’s first lesbian pride march, from Robson Square through downtown Vancouver to the
+            WECC. A final report, Lesbian Power: Organizing for the 80s, was published after the
+            conference. </p>
           <bibl>“1981 Bi-national Lesbian Vandykescouver, B.C., Conference!” Lavender Sheets (LOOT),
             Summer 1980, p. (3)</bibl>
           <bibl> “1981 Lesbian Conference,” Gaze, June 1981, p. (4)</bibl>
